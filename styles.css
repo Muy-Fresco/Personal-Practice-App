@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;600&display=swap');
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #121212;
+  color: #eee;
+  font-family: 'Inter', sans-serif;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+h1 {
+  font-weight: 700;
+  font-size: 2.8rem;
+  margin-bottom: 5px;
+  letter-spacing: 1.5px;
+  color: #ffcc00;
+  text-shadow: 0 0 5px #ffcc00aa;
+}
+p.subtitle {
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+  color: #ccc;
+  letter-spacing: 0.8px;
+}
+.container {
+  background: #1e1e1e;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(255, 204, 0, 0.3);
+  max-width: 520px;
+  width: 100%;
+  padding: 25px 30px 40px;
+}
+h3 {
+  color: #ffcc00;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  border-bottom: 1px solid #ffcc0055;
+  padding-bottom: 6px;
+  letter-spacing: 1.1px;
+}
+input[type="text"] {
+  width: 100%;
+  padding: 12px 15px;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+  font-family: 'Roboto Mono', monospace;
+  background: #292929;
+  color: #eee;
+  box-shadow: inset 2px 2px 8px #000000a0;
+  transition: background 0.3s ease;
+}
+input[type="text"]::placeholder {
+  color: #777;
+  font-style: italic;
+}
+input[type="text"]:focus {
+  background: #3a3a3a;
+  outline: none;
+  box-shadow: 0 0 8px #ffcc00aa;
+}
+button {
+  margin-top: 8px;
+  padding: 12px 18px;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #121212;
+  background: #ffcc00;
+  cursor: pointer;
+  box-shadow: 0 5px 15px #ffcc00cc;
+  transition: background 0.25s ease, box-shadow 0.3s ease;
+  user-select: none;
+  font-family: 'Inter', sans-serif;
+}
+button:hover {
+  background: #e6b800;
+  box-shadow: 0 8px 22px #e6b800cc;
+}
+button:active {
+  background: #cca300;
+  box-shadow: 0 3px 10px #cca300cc;
+}
+.group {
+  margin-bottom: 20px;
+}
+#output {
+  margin-top: 30px;
+  background: #292929;
+  padding: 20px;
+  border-radius: 12px;
+  min-height: 140px;
+  white-space: pre-wrap;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1rem;
+  color: #ffcc00;
+  box-shadow: 0 0 15px #ffcc0055;
+  overflow-y: auto;
+  max-height: 300px;
+  user-select: text;
+}

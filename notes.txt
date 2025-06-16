@@ -383,6 +383,20 @@ Stages to ban: BF, SBF, Hollow
 - Grab gets rid of revenge 
 - If it’s not an aerial, it’s something laggy as shit
 
+🛡️ Out of Shield Punishes vs Incineroar
+
+    - Fair: FF, Falling Aerials, Aerial Delay 11, Full Hop 
+        - OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, 
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+
+    - Nair: FF, Falling Aerials, Aerial Delay 15, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt 
+
+    - Bair: FF, Falling Aerials, Aerial Delay 13, Full Hop 
+        - OoS: Up B, Zdrop, Nair 
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
 Inkling
 Things to watch out for: Bury Roller, Up Smash, Fsmash, Uair, Bair, Fair
 Stages to ban: 

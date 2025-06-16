@@ -1,0 +1,1290 @@
+Aegis
+Things to watch out for: Pyra: Bair, Fair, Uair, Dash Attack, Dair combos, Dair ledge traps,         Mythra: Fsmash, Up Smash, Down SmashUtilt/ftilt
+Stages to ban: BF, SV, Hollow
+- Camp Pyra
+- True combos only on mythra
+- Stay on your toes against mythra
+- Edge guard both of them horizontally
+
+🛡️ Out of Shield Punishes vs Aegis
+    Pyra
+        - Nair
+            OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key 
+
+        - Fair
+            OoS: Up B, Zdrop, Nair, Dair, Fruit Throw
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+
+        - Bair
+            OoS: Up B, Zdrop, Nair, Dair, Fruit Throw
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+
+        - Uair
+            OoS: Up B, Zdrop
+            Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+        - Dair 
+            OoS: Up B, Zdrop, Nair, Dair, Fruit Throw 
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt
+
+    Mythra
+        - Nair
+            OoS: Up B, Zdrop, Nair, Dair, Fruit Throw 
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt
+
+            Note: Parrying Nair is very difficult due to its landing hurtbox and low probability of parrying both hits
+
+        - Fair
+            OoS: Up B, Zdrop, Nair
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw Jabs, Ftilt, Dtilt 
+
+        - Bair
+            OoS: Up B, Zdrop, Nair
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw Jabs, Ftilt, Dtilt 
+
+        - Uair
+            OoS: Up B, Zdrop
+            Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+        - Dair
+            OoS: Up B, Zdrop, Nair
+            Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs (With Proper Spacing), Ftilt, Dtilt
+
+Banjo
+Things to watch out for:
+Stages to ban: Hollow SV, Town
+- Approaching is deadass rarely ever safe so keep your distance
+- Transition to less projectile heavy play when they inch closer to you
+- Shield the bomb and play around eggs 
+- Get a feel for wonderwing habits so they don’t surprise you so often
+- Understand when you feel like you’re being forced in the corner. This is when they want to pressure with eggs
+
+Bayonetta
+Things to watch out for: Back air, Some crazy combo off the side probably, smash attacks, f throw, d throw at desperate percents
+Stages to ban: 
+*Bayo can fsmash you for hanging at ledge for too long*
+- No mashing
+- True combos only
+- Preserve your resources off stage
+- SDI outta combos
+- Play poise and grounded. The last thing you need happening to you is getting whiff punished
+
+Belmonts
+Things to watch out for: Ledge Fiend
+Stages to ban: BF, SV, Hollow
+​​- Shield cross
+- Run away from axe
+- Stay away from ledge at all costs
+- Shield holy water so it bounces off your shield and you can catch it
+- Use less hydrant, and more aerials. Our goal is to shut belmonts down and prevent them from setting up 
+- Don’t mash on shield too much. Their up b is frame 6 and is intangible frame 5-6
+
+Bowser
+Things to look out for: Up B OOS, Dair to land, Side b, bair, uair, fair, nair into any of those moves, ftilt, utilt
+Stages to ban: BF, SBF, Town
+- Don’t let him set up. Trampolines up
+- Shield bowser moves
+- SDI and roll away from flamethrower
+- React to flamethrower 
+- Bowser’s moves beat out the fruit (huh, kinda like a shoto)
+- Edge guarding him isn’t reliable, so we should ledge trump/trap with bell in hand, and try and force the high recovery
+- Bowser side b is active on frame 6 only *SPOTDODGE IT*
+- Bowser up b covers roll
+- Play under battlefield plats against bowser. Setup hydrant in front of needed
+-Melon and key are strong for edge guarding bowser
+- Watch out for nair, bowser uses those for kill confirms
+- Bowser’s dair lifts him up in the air for a bit so if you can read it, you can get a big reward from it
+- Watch out for run up ftilts
+
+Bowser Jr
+Things to watch out for: They ALWAYS land with the hammer if they do up b in neutral
+Stages to ban:
+- Character can be hella bouncy so watch it’s movement
+- Catch mechakoopa with dash attack and throw it back
+- Be wary of side b patterns and committal side bs 
+- Combo tf outta them
+- Keep your distance when you have a lead they can’t really do much far away
+- Cannonball hits the shield weird so don’t shield for too long
+
+Byleth
+Things to watch out for:
+Stages to ban: 
+- Camp them out. They’re slow on the ground and air
+- Pressure her up close too
+- Recover smartly. They like to go for up b a lot off stage 
+- Watch out for their overhead approaches
+- Be careful of up b habits
+
+Captain Falcon
+Things to watch out for: Ledge Fiend
+Stages to ban: BF
+- Close every gap you have
+- SDI and trampoline out of combos
+-Falcon’s kinda bouncy
+- Recover smartly
+Chrom
+Things to watch out for:
+Stages to ban: 
+- Edge guard him carefully. Place hitboxes where he’s destined to be
+
+Cloud
+Things to watch out for: Ledge Fiend, Up Smash, bair, dair, ftilt, dash attack
+Stages to ban: BF, SBF, PS2, 
+- Be wary of bair pressure especially in the corner
+- Respect Cloud when it’s his turn to disrespect you
+- Burst range is cherry range for cloud. Stay our of that range
+- Pac is very susceptible to getting juggled hard every time by this character so use your resources carefully
+- Don’t be scared to shield. His grabs aren’t that crazy
+- Don’t let him walk all over you. Understand what his burst range is and play around it
+- Play slow and calculated. Make it a struggle for him to hit you
+- Trampoline’s up when cloud has limit
+- Go for gimps when you can 
+- Reset with trampoline at ledge time by time. Especially when he has limit
+- Similar to sephiroth, don’t chase him especially in the corner
+- Don’t rising aerial cloud’s shield
+
+🛡️ Out of Shield Punishes vs Cloud
+    - Fair
+        - OoS: Up B, Nair, Zdrop
+        - Parry OoS: Up B, Nair, Zdrop, Fruit Throw, Ftilt, Dtilt, Jabs, Dair
+
+    - Bair: FF, Falling Aerials, Aerial Delay 8, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+Corrin
+Things to watch out for: Nair into bair, pin
+Stages to ban: 
+- Keep your distance
+- Apply your setups based on her burst range
+- Corrin aerials have priority over yours so whiff punishes won’t be as common
+- Don’t spend too much time in the air. Play grounded when needed
+- This is one of those MUs where you can only setup when the coast is clear, so rememeber to keep moving and stay evasive
+- Watch how you recover. Bair and pin could become threats offstage
+
+Diddy Kong
+Things to watch out for: Banana into fsmash, dtilt bair, dtilt upsmash, monkey flip
+Stages to ban: BF
+- Tu plataño es mi plataño
+- Trap the monkey
+- Understand banana habits (fake outs, baits, etc)
+- Don’t approach diddy when it’s not needed. Only really use it as a mix up when it works 
+- Diddy is fast and low profiles so only go for combos that you know will work and don’t chase
+- Really only charge fruit when Diddy’s in disadvantage
+- Don’t let this fucking monkey walk all around you
+- Fruit will stop banana in its tracks 
+- Diddy players use dtilt on hydrant the most
+
+Donkey Kong
+Things to watch out for: DK Punch, Ding Dong, Cargo Throw, random ups bs, dk slap combos, side b into up smash
+Stages to ban: 
+- Don’t force nothing
+- Combo food
+- Edge guard him hard
+- DK Punch is -4 and has armor both in the air and on ground 
+- Down B breaks hydrant well
+- Watch how you land on shield. Skilled dk players know how to do aerial up b oos
+
+Dr. Mario
+Things to watch out for: Up B OOS, Ledge Fiend, up b oos, all aerials, LANDING nair, Up Smash, Down b, caped projectiles
+Stages to ban: BF, SV, Town
+​- Pills go over hydrant so prepare to shield. Don’t pellet shield them
+- Don’t let neutral move too fast against this character
+- Take every chance you have to edge guard him
+- Make him burn down b first. He can barely recover without it
+- Punish the DROP DOWN of doc’s down b. It has a lotta end lag
+- Doc will most likely up b oos at high percents
+- Watch out for the ledge. That’s where Doc shines
+
+Duck Hunt
+Things to watch out for: Ledge Fiend
+Stages to ban: BF, Kalos
+- Camp this nigga FOREVER
+- Galaxian beats out clay pigeon. Remember that when you feel like approaching this nigga
+- Duck Hunt’s up close options are very limited, so try and rush him down when you can 
+- Watch for the overhead cans. It’s not as much as a threat when the can’s behind you moving forward
+- Down smash sends the opposite direction duck hunt is facing
+- Trampoline explodes can on contact
+- Use orange as a mixup for getting rid of clay pigeon, since they’re less likely to shoot at it
+- Throw orange to hit the can away from close up, or far away
+- Don’t engage with hydrant when duck hunt is shooting at it (clay pigeon explosion, smash attacks, etc)
+- Duck Hunt’s down tilt makes him low profile so don’t try to fair it oos
+
+Falco
+Things to watch out for: Ledge Fiend, Bair, Up Smash, up tilt confirms, dtilt, fair at higher percents
+Stages to ban: FD, SV, Kalos
+- Shield everything. Falco can’t kill without Up Smash or an aerial
+- Be wary of the reflector. It’s active frames 1-33 with only 11 frames of end lag
+- Land safely
+- Punish fair on shield
+- SDI fair
+- Orange is your best fruit in this MU
+- Use hydrant as a wall. Chances are they’ll dtilt it or reflector.
+- Be ready for unpredictable side bs. Most of them may go through hydrant
+- Falco’s aerials seem to have more priority than yours so go for whiff punishes when you can
+- Use orange to protect yourself from lasers. If you need to charge a fruit, make sure you’re behind a hydrant first
+- For the sake of your mental sanity, true combos only 
+- Only charge fruit when its safe to do so
+
+🛡️ Out of Shield Punishes vs Falco
+    -  Uptilt (Front Side)
+        - OoS: Nair, Fair, Bair, Dair, Fruit Throw, Reverse Fruit Throw, Jabs, Ftilt, Dtilt
+        - Parry OoS: Reverse Fruit Throw, Fsmash, Dsmash, 
+
+    - Uptilt (Back Side)
+        OoS:
+
+    - Dtilt
+        - OoS: Fair, Fruit Throw , Reverse Fruit Throw
+        - Parry OoS: Nair, Fair, Dair, Bair, Jabs, Ftilt, Dtilt, Key
+        - Note: All punishes work best at close range.
+
+    - Nair: FF, Falling Aerials, Aerial Delay 10
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, 
+
+    - Fair: FF, Falling Aerials
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+
+    - Bair: FF, FF Delay 5, Falling Aerials 
+        - OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw 
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key 
+
+    - Dair: FF, Falling Aerials, Aerial Delay 18
+        - OoS: Up B, Zdrop, Nair
+        - Parry Oos: Up B, Zdrop, Nair, Fair, Fruit Throw
+
+
+Fox
+Things to watch out for: Ledge Fiend, Nair Up smash, Dair Up smash/jump read uair, bair at ledge, uair from juggles
+Stages to ban: BF, Kalos, Town
+- Don’t anticipate his next move. Just react
+- Don’t fall asleep at the wheel. Fox is a fast character that can combo for a decent chunk of percent
+- Don’t let fox occupy a space that you’re not comfortable with
+- I promise you fox will approach you almost every time. Don’t force anything
+- Use bell to anti air
+- Catch on to how they’re approaching you and set up according
+- When Nair hits at post 100 percents, it is not a tech chase. Jump outta there or do something else
+- Play D1 housekeeping when they start approaching you when hydrant’s out remember to use dash attack when comboing at low percents
+
+🛡️ Out of Shield Punishes vs Fox
+    - Nair 
+        OoS: None
+        Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+    - Bair: FF, FF Delay 7, Falling Aerials, 
+        OoS: Up B, Zdrop
+        Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, 
+
+Ganondorf
+Things to watch out for: Dair, all smash attacks, all aerials
+Stages to ban: SBF, PS2, Town
+
+Greninja
+Things to watch out for: Dash attack into fair, up smash, down b,
+Stages to ban: BF, Town, Kalos
+- Be careful with how you use hydrant they can use substitute to counter it
+- Greninja low profiles a lot of things 
+- Watch how you recover. They might know the tech 
+- Greninja’s fast so remember to pick and choose when to stand still to match the pace of greninja
+- Don’t challenge side b its strong
+- Punish dash attack on shield
+
+🛡️ Out of Shield Punishes vs Greninja
+Nair: FF, Falling Aerials, Aerial Delay 10, Full Hop
+OoS: None
+Parry OoS: Nair, Jabs, Ftilt, Zdrop, 
+
+Bair (1st Hit): FF, Falling Aerials, Aerial Delay 21
+OoS: Nair, Zdrop, Up B, Fruit Throw
+Parry OoS: Nair, Zdrop, Up B, Fruit Throw, Upsmash, Ftilt, Dtilt, Jabs
+
+Bair (2nd Hit): FF, Falling Aerials, Aerial Delay 18
+OoS: Nair, Fair (With Proper Spacing), Fruit Throw, Zdrop, Up B
+Parry OoS: Nair, Fair (With Proper Spacing), Fruit Throw, Zdrop, Up B, Ftilt, Jabs, Dtilt
+
+Bair (3rd Hit): FF, Falling Aerials, Aerial Delay 12
+OoS: Nair, Up B, Zdrop
+Parry OoS: Nair, Up B, Jabs, Zdrop, Fruit Throw, Ftilt, Dtilt
+
+Fair: FF, Falling Aerials, Full Hop
+OoS: Up B, Zdrop, Nair
+Parry OoS: Up B, Zdrop, Nair, Fair (Mid Range Only), Fruit Throw, Jabs, Ftilt, Dtilt
+
+Hero
+Things to watch out for: Ledge Fiend/Ledge Expert
+Stages to ban: 
+- Play grounded
+- Stay patient
+- Don’t get caught charging
+- Menu is only as much as an issue as you make it out to be. Hero is completely vulnerable till he throws something out, so be sure to catch on to when hero wants to use it, and play around it
+- Hero will likely approach you if he has no MP
+- Time a neutral getup to avoid kaboom at ledge
+
+🛡️ Out of Shield Punishes vs Hero
+    - Nair
+        OoS: Up B, Z-drop, Nair
+        Parry OoS: Up B, Z-drop, Nair, Dair, Fruit Throw, Jabs, Ftilt
+
+    - Oomph Nair
+        OoS: Up B, Z-drop
+        Parry OoS: Up B, Z-drop, Nair, Fruit Throw, Jabs, Ftilt
+
+    - Fair
+        OoS: Up B, Z-drop, Nair, Fair, Fruit Throw
+        Parry OoS: Up B, Z-drop, Nair, Fair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant
+
+    - Oomph Fair
+        OoS: Up B, Z-drop, Nair
+        Parry OoS: Up B, Z-drop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair
+        OoS: Up B, Z-drop, Nair, Fair, Dair, Fruit Throw
+        Parry OoS: Up B, Z-drop, Nair, Fair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant
+
+    - Oomph Bair
+        OoS: Up B, Z-drop, Nair
+        Parry OoS: Up B, Z-drop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+Ice Climbers
+Things to watch out for: Ledge Fiend
+Stages to ban: BF, SV, Town
+- Camp them asap
+- Separate nana from popo. 
+- Grab popo instead. The punish window isn’t as committal to
+- Climber moves are plus on shield, so oos punishes won’t happen so often
+- When the climbers hit that turnaround movement, they’re looking for a desync combo. SDI OUT!
+- Stop shielding in the corner. It sets up for a desync spike
+- Don’t getup attack IC shield
+- Be careful of how you land
+- Try to understand side b habits and react to them accordingly
+
+Ike
+Things to watch out for: Nair into aerials, Literally all his aerials, Dash attack
+Stages to ban: BF
+- Hide under platforms
+- Land safely
+- Figure out how to punish those high recoveries
+- Ike mains start turning up when they start mixing up their aerial and movement patterns. Catch on to that
+
+Incineroar
+Things to watch out for: Alolan Whip, Up Smash, Down Smash, dtilt ledge combos, literally any throw/dthrow combos, lariat in shield and fast option scenarios, dash attack, any aerial
+Stages to ban: BF, SBF, Hollow
+- True combos only
+- Don’t throw projectiles in scenarios where revenge is reactable
+- Play slower to match the speed of Incineroar
+- When facing Incineroar, punish fair on shield with Nair
+- DI out on the up throw of alolan whip
+- DI out when grabbed at the ledge he’s going to down throw. You’ll have time to react to a throw if that’s the case so don’t be scared
+- Retreat to the ledge with trampoline to avoid getting alolan whipped in the corner
+- Don’t ice incin for too long. Must be a balance of camping and approaching
+- Grab gets rid of revenge 
+- If it’s not an aerial, it’s something laggy as shit
+
+Inkling
+Things to watch out for: Bury Roller, Up Smash, Fsmash, Uair, Bair, Fair
+Stages to ban: 
+- Very bouncy character
+- Don’t setup around inkling burst range
+- Get a feel for movement patterns, esp in the air
+- Inkling aerials have more priority than yours
+- Splat bomb one shots hydrant
+
+Isabelle
+Things to watch out for: Ledge Fiend Fishing Rod, grab throws, slingshot, up smash
+Stages to ban: BF, SV, Kalos
+- TRAMPOLINES UP
+- Throw key at at hydrant so she’ll be forced to pocket one and get hit by the other
+- play grounded in this MU
+- Fishing Rod is still active until she traces it back
+- Mixup your landing habits
+- Isabelle can up smash oos to mitigate you landing with hydrant 
+- You HAVE to give isabelle that respect to stop charging fruit when she’s capable of using slingshot. Recognize when you’re in slingshot range and play accordingly 
+- Her uptilt is intangible so dont mash nair over it
+
+Jigglypuff
+Things to watch out for: Rest, bair, utilt, pound
+Stages to ban: BF, Town
+- Camp her the whole time
+- Never miss a tech
+- Realize when you feel like you’re being baited
+
+Joker
+Things to watch out for: Ledge Fiend, Bair, Smash attacks, counter off stage
+Stages to ban: BF, Town
+- One of those MUs where you gotta watch how you charge
+- Joker’s very fraille so watch how you combo him
+- Smart recoveries only. They looking for a reason to go offstage
+- Eiha/Eigaon are Joker’s best moves for interupting Pac-Man’s charge
+- Don’t stand too far away from hydrant. You gotta keep a certain distance away from Joker 
+- Don’t be scared of arsene, but also give it enough respect to not go for dumb shit
+- SDI Up and mash up b to get outta uair infinite
+
+Kazuya
+Things to watch out for: Kazuya Mishima
+Stages to ban: BF, SV, Town
+- Out of all the FGCs these ones are the most cancerous
+- Similarly to Luigi, make sure to alert and setup before engaging. This could prevent early stocks if they’re rushing you down 
+- Kazuya’s moves hit hydrant away faster than normal
+- Most Kazuya players will use laser when they’re off stage. Edge guard/ledge trap accordingly
+- Kazuya can dash attack through hydrant
+- Understand when to give Kazuya his space. His burst range is literally untouchable
+
+🛡️ Out of Shield Punishes vs Kazuya
+Nair: FF, Falling Aerials, Aerial Delay 4, Full Hop
+OoS: None
+Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+Fair: FF, Falling Aerials, Aerial Delay 4, Full Hop
+OoS: Up B, Zdrop
+Parry OoS: Up B, Zdrop, Nair, Fair (With Proper Spacing), Fruit Throw, Jabs, Ftilt, Dtilt
+
+Bair: FF, FF Delay 5, Falling Aerials, Full Hop 
+OoS: Up B, Zdrop
+Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+Uair: FF, Falling Aerials, Aerial Delay 11, Full Hop
+OoS: None
+Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+Ken
+Things to watch out for: Shoryu confirms off of strong jab, uptilt, dtilt, etc, strong kick
+Stages to ban: BF, Town
+- Ken moves faster than ryu
+- Mixup hard when it comes to up b’ing outta ken combos
+- Don’t in in case they go for strong kick
+
+King Dedede
+Things to watch out for: Ledge Fiend, Gordo ledge traps, aerials, gordo, Up smash, dash attack, jet hammer
+Stages to ban:  BF, PS2, SV
+- Gordos bounce higher the more they touch the ground
+- Don’t shield gordos if you don’t have to. They’re meant to slow you down
+- Catch on to when they wanna inhale or go for gordos
+- Fuck his shit up
+- Hit gordos with it
+- Try and realize when ddd will go off stage fo edge guard you 
+- Get off the ledge when you can, but watch out for uair that will beat out everything you try to do
+- Don’t hit his shield at higher percents with an aerial. He’s gonna go for up smash oos
+
+Kirby
+Things to watch out for: Down b, bair, dair into down smash, fair into fsmasg,
+Stages to ban: 
+- Play the long game
+- Close every gap you can against kirby
+- Kirby low profiles a lot of things, so be careful where throw your moves at
+-  Dair/Spawn Hydrant on kirby up b offstage 
+- Don’t get caught up in their mashing
+- HOLD THOSE LEADS
+
+Link
+Things to watch out for: Ledge Fiend
+Stages to ban: 
+- If they don’t approach, you don’t approach
+- Shield projectiles. You can pellet shield boomerang
+- Get away from ledge when they recover facing away from it
+
+🛡️ Out of Shield Punishes vs Link
+    - Nair: FF, Aerial Delay 14
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs
+
+Little Mac
+Things to watch out for: All smash attacks, dtilt side b, ftilt, uptilt confirms,
+Stages to ban: BF
+- Camp his ASSSSS
+- All of his tilts are laggy as shit so punish them oos
+- Don’t be scared of KO Punch, but recognize that it’s a threat so play around it
+- Mac gradually loses resources off stage the more he tries to recover, so remember to just keep him off stage
+- don’t challenge mac smash attacks. Punish the end lag
+
+Lucario
+Things to watch out for: Bair, side b, fsmash, up air, Aura Sphere, Counter
+Stages to ban: BF, Kalos
+- Lucario’s love to counter the hydrant
+- This character moves fast so be sure to keep your distance
+- Use Lucario’s air speed to make him over commit to where he’ll land
+- Dair will likely stage spike from ledge
+- Be ready to react to those bairs
+- Play a bell in hand heavy game. We can’t afford to let this character set up forever
+- Lucario will likely recover high. Try to jump over where he’ll land punish when you can
+- Pellet shield grounded aura spheres only. Raise the pellet up if you suspect it going over your head a little bit
+
+Lucas
+Things to watch out for: Ledge Fiend (At Kill Percent), Ledge Expert (Lowkey), All throws besides dthrow, Down Smash at ledge, Fair, Uptilt, Up Smash during weird scenarios
+Stages to ban: BF, SBF, Town
+- Most of these niggas mash
+- Because these niggas mash dont let him get too close. His shield pressure is not fun
+- Most of your punishes should come from whiff punishing him. Hitting him willy nilly will only leave you more open to combos
+- Don’t contest hydrant when PK Fire touches it
+- Mash up b and be ready to tech to avoid get pk thunder gimps
+- Watch how you throw out projectiles if they like to fsmash 
+- Watch how you ledge trap. They can use their pk moves to stop you from setting up
+- Melon powers through PK Fire
+- Pac-Man can up b outta lucas down tilt combos since he’s floaty
+
+Lucina
+Things to watch out for: Fsmash, ftilt, any aerial, shield break punishes
+Stages to ban: 
+- Stay out of her range
+
+Luigi
+Things to watch out for: When Luigi uairs you on a platform, nair it, Usmash in neutral at 0 is punishable with nair, Pellet shield those fireballs past ledge, and punish the overhead one, Ledge Fiend
+Stages to ban: BF, SV, Hollow
+- Camp him at all times
+- Punish second aerial on shield instead of the first. Luigi’s burst range is better than yours
+- Mix up how you camp
+- Use more keys 
+- Slow down the pace of the match when needed
+- Really think about how you’re gonna land. Luigi jumps really fast 
+- SDI Up and out and mash up b to get out of ztd 
+- Luigi aerials beat out hydrant 
+- Pellet shield fireballs
+- Punish Luigi for dash attacking your shield. It’s -18
+- Choose ledge options wisely
+- DI cyclone down and away
+- Don’t force the approach. They won’t commit if you do
+
+🛡️ Out of Shield Punishes vs Luigi
+    - Nair: FF, Falling Aerials, Aerial Delay 17
+        - OoS: Up B
+        - Parry OoS: Up B, Zdrop, Jabs, Ftilt, Dtilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 29, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fair (With Proper Spacing), Dair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Fair (With Proper Spacing), Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Hydrant, Key 
+
+    - Bair: FF, Falling Aerials, Aerial Delay 13
+        - OoS: Up B, Nair (Weak Hit Only), Zdrop, 
+        - Parry OoS: Up B, Nair, Zdrop, Fruit Throw, Ftilt, Dtilt
+
+    - Uair: FF, Falling Aerials, Aerial Delay 14
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+
+Mario
+Things to watch out for: Up Smash, Dair, Uair Strings, Back Throw, Bair
+Stages to ban: BF, SV, Town
+- For some reason, every Mario is different
+- Whiff punish the character
+- DI In on Uairs. If you can, try to keep a trampoline under the stage and DI towards it
+- Understand when he’s going to keep approaching you
+- Keep a bell in hand to kill
+- Don’t mash in Mario burst range
+- Stay on your toes. Advantage against that character is not fun
+- DI in on uair strings when approaching platforms
+- Punish aerial fire balls
+- Don’t edge guard with projectiles when you are susceptible to being caped
+- Don’t whiff grabs against this guy 
+- Orange is probably your best fruit
+- Watch out for up b oos
+- Be ready to react to Mario’s approach options
+- Use key from afar 
+- react to up close capes
+- Don’t up b outta combos. The last thing Mario needs is a fucking trampoline
+- With that being said, be careful how you up b ESPECIALLY when he has FLUDD. That could be detrimental 
+- Mario can short hop directly over the hydrant
+- Be careful for bairs in the corner. It can combo into a spike at lower percents
+- Mix up ledge options. Mario can punish normal get up very well
+- Don’t airdodge in on dtilt at ledge
+
+🛡️ Out of Shield Punishes vs Mario
+    - Nair: FF, Falling Aerials, Aerial Delay 15
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, 
+
+    - Bair: FF, Falling Aerials, Aerial Delay 9
+        - OoS: None
+        - Parry OoS: Up B, Zdrop
+
+Mega Man
+Things to watch out for: Fair, bair, uair, fsmash, up tilt, up smash, down smash
+Stages to ban: 
+- Leaf Shield and Metal Blade both go through hydrant
+- Crash bomber explodes the hydrant on contact
+- Chances are if mega man throws blade and crash at hydrant, chances are it will beat it out so respect it
+- They will often high recovery to get past ledge traps
+- Lemon pressure will stop you from charging
+
+Meta Knight
+Things to watch out for: BF, Town, Kalos
+Stages to ban: Up b, aerials off stage, uair strings, down smash, up smash oos
+- This MU moves fast
+- Watch out for dash attack and grab. He needs those to get his combos started
+- Meta Knight can dash attack through hydrant
+- Rising fair is not a thing in this MU
+- Ledge traps rarely work cuz of dimensional cape
+- Punish neutral b end lag before he lands
+- Every MK players becomes a cheeser when they’re down a stock
+- Good MK players will try to anti air you so play grounded and patient
+- Most Meta Knight players have a crazy roll habit since they aerials have like no lag
+- Meta Knight can go DEEP for his edge guards
+- Tech the last hit of side b off stage
+
+Mewtwo
+Things to watch out for:
+Stages to ban: 
+- Light ahh big hurtbox ahh character
+- Play it patient. They gotta commit to you
+- Combo his ass when you can
+
+Mii Brawler
+Things to watch out for: 
+Stages to ban: BF, Town
+- Play this MU like fox, just without the reflector
+- These fuckers will go for up b any chance they get
+- This is one of those MUs where you gotta watch how you charge
+- They also LOVE being in the air
+- DI Down Throw down
+- Be careful how you land esp with hydrant. He can juggle you hard at times
+- You can punish whiffed flashing mach punch on shield with a fsmash
+
+🛡️ Out of Shield Punishes vs Mii Brawler
+    - Nair: FF, Falling Aerials, Aerial Delay 18, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop
+
+    - Fair: FF, Falling Aerials, Aerial Delay 10, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt 
+
+    - Bair: FF, Falling Aerials, Aerial Delay 11, Full Hop
+        - OoS: Up B, Zdrop, Nair,
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+Mii Gunner
+Things to watch out for: Ledge Fiend, Charge shot, fsmash, up tilt, up smash, missles, bair
+Stages to ban: 
+- Strong missle will almost always one shot hydrant unless it’s very stale
+- Stay patient
+
+- Down tilt sends hydrant very high
+- Box in their face when warranted 
+- Don’t necessarily camp from afar the whole time. Gunner out classes you at that. Moreso use your projectiles as a way of pressuring from a tight spot, and overall shutting down their zone
+
+Mii Swordfighter
+Things to watch out for: Bair, up b, nair, dash attack
+Stages to ban: 
+- For msfs with the link up b, br careful of how you get off ledge. They like going for down throw up b in those corner situations
+- His Down Smash hits below ledge
+
+Min Min
+Things to watch out for: Ledge Fiend
+Stages to ban: SV, Town, Hollow
+- Play around her burst range. ALL OF IT
+Ram ram and dragon laser go through laser
+- Don’t let her stop you from setting up at the beginning of the match. Set up the precautions before she gets close.
+- Place hydrant in front of min min to close the distance
+- Min Min players will edge guard tf outta you cuz they can
+- Camp her for as long as you can, but make sure to take full advantage of when you can box her
+- GIMP HER ASSSSS
+- Orange, Key, galaga, and melon are your best friend
+- Trampoline will scuff out grounded megawatt and dragon
+
+Mr. Game and Watch
+Things to watch out for: Ledge Fiend/Ledge Expert Down Smash -> Up smash/Fsmash, Usmash, Fair pressure, Bair offstage, uair ladders, nair off the top, ftilt, dtilt,
+Stages to ban: BF, SV, Hollow
+- Light shoto
+- SDI GnW nair up
+- Every GnW player is a masher to some extent
+^ I take that back. Methodical ones exist too. Versus methodical ones, be wary of how you use fruit. Use it as a way of threatening an option rather than just trying to use it
+- Recover high to get away from chef
+- Shield up b oos
+- Be wary of bucket habits 
+- Use fruit to contest the chef at ledge
+- Be ready to react to grabs against grab heavy gnws. They like to put you in scenarios that make you feel like you’re safe to force a shield 
+- Some GnW players (Maister) may like to go for dair on hydrant
+- Be careful how you land with hydrant. Depending on the angle, it could be enough for gnw to go for an up b or an aerial
+
+Ness
+Things to watch out for: Ledge Expert, Back throw, all aerials
+Stages to ban: BF, SBF, Kalos
+- Try and whiff punish when you can
+- Maintain a threatening close range, but be ready to react to when they might strike. Good Ness players only mash when they have a reason to. 
+- Use less hydrant
+- Keep him away for as long as possible
+- Punish low recoveries with up b
+- Only unstale PK Fire will one shot the hydrant
+- Watch out for diagonal PK Fires above platforms 
+- Play under platforms against ness
+- Chuck cherries and strawberries at ness to keep him away
+- Don’t jump out of PK Fire so much. That’s like the most predictable thing Ness players know
+- Shielding grounded PK fire gets rid of it entirely
+
+Olimar
+Things to watch out for: purple up smash, f smash, down smash (esp when shielding)
+Stages to ban: 
+- Stay out of olimar range of getting hit by pikmin
+- Use nair to get rid of pikmin, but don’t make it a predictable habit 
+- If you shield pikmin they won’t latch on to you 
+- Nair is prolly gonna be stale in this MU so don’t rely on it too much for your setups
+- It’s very easy to tunnel vision certain things in this MU, but remember you’re fighting olimar not his pikmin
+- Olimar can throw certain pikmin past the hydrant
+- Olimar will likely recover high with no pikmin 
+- Olimar is small af so true combos only
+- Purples will never latch on to you. Treat them like a projectile war
+- Don’t use side b offstage when pikmin are latched on to you
+- Watch how you land. Purple Pikmin is a threat in the air as well
+
+🛡️ Out of Shield Punishes vs Olimar
+    - Fair (Red): FF, Falling Aerials, Aerial Delay 16, Full Hop
+        - OoS: Up B
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt 
+
+    - Fair (Yellow): FF, Falling Aerials, Aerial Delay 16, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt 
+
+    - Fair (Blue): FF, Falling Aerials, Aerial Delay 16, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt 
+
+    - Fair (White): FF, Falling Aerials, Aerial Delay 16, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt 
+
+    - Fair (Purple): FF, Falling Aerials, Aerial Delay 16, Full Hop
+        - OoS: Up B, Zdrop (In front only)
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt 
+
+    - Bair (Red): FF, Falling Aerials, Aerial Delay 13, Full Hop 
+        - OoS: Up B
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+    - Bair (Yellow): FF, Falling Aerials, Aerial Delay 13, Full Hop 
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair (Blue): FF, Falling Aerials, Aerial Delay 13, Full Hop 
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair (White):
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair (Purple): FF, Falling Aerials, Aerial Delay 13, Full Hop 
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+Palutena
+Things to watch out for: Ledge Fiend
+Stages to ban: BF, SV, Kalos
+- Camp when they wanna approach, approach when they wanna camp.
+- Every palu has a rising nair problem at low percents
+- Be careful of how you normal getup. They’ll be ready to back throw you at those higher percents
+- Respect all of Palu’s moves. The I’m y have more priority than yours so don’t let her get too close
+- Be ready to react to explosive flame and auto-reticle at all times
+- Put trampoline up to create distance between you and Palutena. She can’t bair you if you’re outta range, and it forces b button plays
+
+Peach
+Things to watch out for: Ledge Expert, aerials, dash attack, throws
+Stages to ban: BF, Town, Kalos
+- Watch how you charge fruit
+- Float is meant to try and challenge you to buffer an aerial. Don’t fall for it
+- Play patience and find those openings
+- Shield those turnips
+
+Pichu
+Things to watch out for:
+Stages to ban: BF, SBF, Kalos
+- Kill the rat
+- Do the race
+- Pichu WILL die to something the higher his percent is
+
+Pikachu
+Things to watch out for: 
+Stages to ban: FD, Town, Kalos
+- Pikachu’s a little shit so his moves out prioritize yours, and he low profiles everything
+- Don’t engage with him ever
+- Quick attack is hard to punish so try to out range it when you’re in the space to
+- Jump and pellet shield the thunder jolts. They move at a weird arc 
+- Bell prolly doesn’t work well against Pikachu so use it more as a bait than a kill confirm
+- His bair is frame 4 so nairing on shield won’t work most of the time
+- Trampoline at ledge extends fsmash hitbox
+- Pikachu will edge guard you from everywhere so watch how you recover
+- Try and whiff punish what you can: Common move patterns: fade back rising bair, rising fair into dtilt
+
+Piranha Plant​​
+Things to watch out for: Ledge Fiend
+Stages to ban: 
+- Plant’s gameplan only works if he gets a stock lead and you’re impatient
+- Ptooie will almost always anti air you so be careful how you approach when doing rising aerials
+- Don’t respect down b too much. Key beats it out
+- Grab the down b to interrupt the charge
+- Be patient when playing from behind 
+- Prevent him from setting up when you can 
+- When approaching him doesn’t work, start camping. Especially in the corner. Think thats he
+
+Pokemon Trainer
+Things to watch out for: Ledge Expert (Ivysaur and zard)
+Ivy Up B, uair, dair
+Zard Bair, up smash
+Stages to ban: BF, SBF, SV
+- Camp Squirtle
+- Respect Squirtle’s burst range. Chances are he can act first
+- Watch out for ivysaur grabs at sub-100 percents
+- Zard is big, so respect his weight and strength, and combo him when its necessary
+- Don’t put too much faith into ledge traps vs Ivy and Zard
+- Stay away from stages with lots of platforms
+- Don’t shield for too long. Ivysaur is always looking for that grab into up b
+- Mix up DI against Ivy down throw
+- Don’t stall for too long off stage, and preserve resources
+
+🛡️ Out of Shield Punishes vs Squirtle
+    Squirtle
+        - Nair: FF, Falling Aerials, Aerial Delay 11
+            - OoS: Up B, Zdrop
+            - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+        - Late Nair: FF, Falling Aerials, Aerial Delay 8, Full Hop
+            - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash
+            - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Key, Fire Hydrant
+
+        - Fair: FF, Falling Aerials, Aerial Delay 22, Full Hop
+            - OoS: None
+            - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+🛡️ Out of Shield Punishes vs Ivysaur
+    Ivysaur
+        - Fair: FF, Falling Aerials, Aerial Delay 7, Full Hop
+            - OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, 
+            - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant
+
+        - Bair (First Hit): FF, Falling Aerials, Aerial Delay 19, Full Hop
+            - OoS: Up B, Zdrop
+            - Parry OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+        - Bair (Second Hit): FF, Falling Aerials, Aerial Delay 9, Full Hop
+            - OoS: Up B, Zdrop
+            - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+        - Uair: FF, FF Delay 7, Falling Aerials
+            - OoS: Up B, Zdrop, Nair, Fair,
+            - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant
+
+R.O.B.
+Things to watch out for: Ledge Fiend, down throw setups, up smash, uair, bair, nair, down smash, side b bs, gyro combos
+Stages to ban: BF, SV, Kalos
+- EVERY ROB PLAYER IS A CHEESER
+- Separate rob from his gyro
+- Be prepared to shield laser and gyro at all times
+- ROB IS BIG
+- Rob players be on 11 so don’t slow down
+- Anti air nair heavy robs 
+- Shut down mashy rob playstyles. Don’t let him step all over you.
+- This MU moves fast
+- Hydrant benefits ROB more than you in this MU so use it less
+- Don’t fall for the properly spaced bair at ledge frame trap. That shit has no long
+
+🛡️ Out of Shield Punishes vs R.O.B.
+    - Nair: FF, Falling, Aerials, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Jabs, Ftilt, Dtilt, Fruit Throw
+
+    - Falling Nair: FF Delay 20, Falling Aerials 
+        - OoS: Up B, Zdrop, Nair, 
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up smash (Only off shield tilted up parry), Fsmash (Only off shield tilted up parry)
+
+        - Note: Falling Nair punishes are only reliable up close. Ftilt and Dtilt work the best afar. 
+
+    - Fair: FF, Falling Aerials, Aerial Delay 21, Full Hop 
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant 
+
+    - Bair: FF, FF Delay 20, Falling Aerials,
+        - OoS (Up Close Only): Up B, Zdrop (Bell stun reduces or bell decimates), Nair, Fair, Bair, Fruit Throw (Forward and Back), Ftilt,  Dtilt,
+
+        - Parry OoS (Up Close Only): Up B, Zdrop (Bell stun reduces or bell decimates), Nair, Fair, Bair, Fruit Throw (Forward and Back), Ftilt, Dtilt, Fsmash, Up Smash, Down Smash, Key, Fruit Toss, Pellet Shielding
+
+        - Note: Pellet Shielding makes more moves more reliable to land since it extend bair’s hitbox 
+
+Ridley
+Things to watch out for: Ledge Fiend, Side b, Up Smash, bair, dash attack
+Stages to ban: BF, SV, Hollow
+- You’re better off playing slow and calculated. 
+- Look to whiff punish 
+- Use trampoline  to separate ridley from the range he wants to be in
+- Stay out of ridley burst range. Jinda  
+- Side b will block all of the fire balls on stage
+
+Robin
+Things to watch out for: Ledge Fiend, any levin aerial, any smash attack, up b spike cheese, nosferatu, 
+Stages to ban: BF, Town, Hollow
+- Fruit Recycling is your best friend
+- Get off the ledge
+- Pellet shield arcthunder
+- Unstale arcfire one shots the hydrant
+- Robin can be helly bouncy at times
+- Force a high recovery could be a nice fsmash
+- Really only charge fruit on the ground so you don’t get scuffed out by levin sword
+- Don’t give him enough space to go for weird b thunder moves in burst range
+
+Rosalina & Luma
+Things to watch out for: 
+Stages to ban: SV
+- Use hydrant as a bait
+- Keep key charged up 
+- Murder Luma
+
+Roy
+Things to watch out for: Jair, Literally any aerials, side b strings, 
+Stages to ban: SBF, Town, Hollow
+- Stick to the gameplan
+- Slow him down, and never chase
+- Despite roy having a sword, he still needs to get up close and personal 
+- Dair Roy’s recovery
+- Chuck fruits at him off stage
+
+Ryu
+Things to watch out for: Jab Shoryu, Dtilt shoryu, dtilt tatsu, bair, nair into jab shoryu
+Stages to ban: SBF, SV, Hollow
+- Stay on your toes the whole time but stay out of his range. Charge fruit when it’s safe
+- DI tatsumaki down and away
+- Recognize hadoken and fireball patterns
+- Ryu is bulky as shit. His aerials beat out yours
+- Auto turnaround 101: Don’t roll so much. Especially at ledge. It’s a free read
+- Shield tatsumaki once, and you can punish the rest
+- Fsmash timed properly can hit up b below ledge
+- Don’t trampoline camp too close to
+
+Samus
+Things to watch out for: Ledge Fiend, Ledge Traps, Up Throw, Literally any aerial,
+Stages to ban:  
+- Burst Range = Cherry Range+
+- Samus players go for grabs a lot so be sure to react to them. Don’t roll to try to avoid it tho. Spotdodge only
+- Try and get behind Samus
+- Unsure? Reset neutral
+- Don’t hit their shield so much. Up b oos will humble you
+- SDI Up Samus uair strings 
+- Pellet shield the missles and keep it lingering so it can cover large charge shots
+- They often use uptilt on the hydrant
+- Apply the pressure nonstop. Don’t mash, just continue to make your presence known
+- Combo samus based on her floatiness 
+- Grounded trampoline can shield you 
+from charge shot in useful scenarios
+- Don’t be be scared of charge shot so much. It can’t threaten as much if it’s barely charged
+- When Samus threatens with charge shot at high percents, chances are they’re gonna grab instead, so be ready to react to it
+
+🛡️ Out of Shield Punishes vs Samus
+    - Nair: FF, Falling Aerials, Aerial Delay 7
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fair (Far Range Only), Fruit Throw, Jabs, Dtilt, Ftilt
+
+    - Bair: FF, Falling Aerials, Aerial Delay 3
+        - OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, 
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up smash, Fire Hydrant, Key
+
+Sephiroth
+Things to watch out for: Ledge Expert/Ledge Fiend
+Stages to ban: 
+- If you can’t match his speed, slow him down
+- Catch on to side b habits
+- Watch how you recover. Sephiroth’s octoslash will always beat out power pellet
+- Catch on to ledge habits. Most of them drop down, use counter, utilize jumps 
+- Don’t chase sephiroth. You will get outran every time
+- Occupy a certain space when Sephiroth is in disadvantage. Just standing there is threatening enough for sephiroth
+- Capitalize on those gaps that sephiroth can rush in on you. Especially during last stock situations
+- Be careful of flare at ledge
+- Be wary of shield habits against one wing. Getting your shield broken in this MU could be detrimental
+- Seph without one wing, makes his shield pressure a little less scary 
+- Be careful of how you throw out your moves at times. They could be down b baits
+
+Sheik
+Things to watch out for: 
+Stages to ban: 
+- Camp like crazy
+- Watch out for overhead needles
+- Sheik is skinny so no linear setups 
+- Hold center stage as much as you can
+- Get comfortable in the corner
+- Don’t chase Sheik, but understand when it’s ok to apply up close pressure
+
+Shulk
+Things to watch out for: Off stage kills, Up smash at ledge, any aerial, smash art moves, fthrow/back throw
+Stages to ban: SBF, Town, Kalos
+- Switch up your playstyle based on what monado he has
+- Make him burn shield art
+- Anticipate when shulk mains will land when they hold forward with jump monado
+- Dair his recovery, but watch out for the sword
+- Buster can help you just as much as it could help him, same with smash art
+- Burn out smash art as best as you can 
+
+Snake
+Things to watch out for: Ledge Fiend, Down throw combos, utilt, ftilt, C4, Nikita,
+Stages to ban: BF, Town
+- Camp tf out of him
+- Look out for C4
+- Be aware of grenade timings. If it’s been out of a long time, shield it. If they throw it instantly, let it bounce off you so it doesn’t travel much farther
+- Snake is always gonna recover high so don’t try to setup ledge traps too much
+- Always be on the move 
+- Hit the Nikita to deactivate its hitbox
+- Understand and respect his burst range at all times. You can’t challenge intangible moves
+- Snake will prolly sticky you if you shield for too long
+- Throw key at cipher
+
+Sonic
+Things to watch out for: 
+Stages to ban: BF, Town, Kalos
+- Be prepared for a spin move at all times
+- Be careful of how you land when he’s charging 
+- Recover smartly
+- True combos only
+- Don’t push the agenda when you have a lead
+- Don’t use bell in neutral
+- Sonic can run past hydrant
+
+🛡️ Out of Shield Punishes vs Sonic
+    - Nair: FF, Falling Aerials, Aerial Delay 18, Full Hop 
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 19, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fair, Bair, Dair, Fruit Throw, Up Smash
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Bair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key 
+
+    - Bair: FF, Falling Aerials, Aerial Delay 10, Full Hop 
+        - OoS: Up B, Zdrop, Nair, Fair (Situational), Dair, Fruit Throw, Up Smash
+        - Parry OoS: Up B, Zdrop, Nair, Fair (Situational), Bair, Dair, Up Smash, Jabs, Fruit Throw, Dtilt, Fire Hydrant, Key 
+
+Sora
+Things to watch out for: Ledge Expert, up smash, up b kill, bair, ftilt, fsmash
+Stages to ban: 
+- Follow the 3 hit rule
+- This character’s very floaty, so watch how you combo him. You need to also be patient since he stays in the air for a while 
+- Pay attention to what neutral b move he has ready
+- Trampoline out of combos
+- Run under sora burst range. He jumps too high
+- Sora low profiles a lot so don’t get lost going for rising fairs
+- Smart recoveries only 
+- Respect blizzaga it lasts a long time
+- Don’t be the one to bite first. Playing from behind against this character is not it 
+- Firaga, Thundaga, into Blizzaga will always shield poke
+
+Steve
+Things to watch out for:
+Breaking Blocks:
+- Dirt: Ftilt, dtilt, Orange, Galaga, Nair, FH Fair
+- Stone: Ftilt x2, Galaga -> ftilt, galaga -> dtilt
+- Iron: Key -> ftilt, Key -> dtilt, Galaxian x2
+- Minecart has 8.4% health
+- Diamond anything, bair, fair, fsmash, minecart, up throw,
+- Treat Steve like a YN
+
+Stages to ban: BF, SV, Kalos
+- Break blocks with fruits, key, and fast normals
+- Be ready to react to minecart at all times
+- Try and prevent him from setting up at times
+- SDI up air/up tilt up
+- STAND ON BUSINESS. Don’t back track by moving away from a certain spot. Sometimes you just gotta stay there
+- Use ftilt to nullify minecart
+- Play around Steve burst range
+- Be careful how you use hydrant. It could help steve mine longer at times
+- If you can break the bottom block, you can run under the one on top of it
+- Steve can stall their landings
+- Most steve players will spam mine cart repeatedly when they’re desperate for the kill, so catch on to that
+- Not too many up b’s in neutral against this character
+
+🛡️ Out of Shield Punishes vs Steve
+    - Bair (Diamond): FF, FF Delay 1, Aerial Delay 1
+        OoS: Up B (Situational), Zdrop (Situational)
+        Parry OoS: Up B (Situational), Zdrop (Situational), Fair, Nair, Dair, Ftilt, Jabs, Fruit Throw 
+
+Terry
+Things to watch out for: 
+Stages to ban: 
+- Shoto tings
+- SDI out of combos, and mix up when they catch on
+- Keep your distance, however Terry will most likely approach you which could make it easier to throw out normals
+- Terry has more priority over hydrant
+- Stick to the gameplan
+- Get off that ledge as much as possible. Don’t jump from ledge as much they can scout that shit out with dair
+- If they’re nairing at ledge they’re probably setting up for a dair
+- Use melon to slow down terry looking for buster wolf
+
+Toon Link
+Things to watch out for: BF, Kalos
+Stages to ban:
+- Lowkey cloud with more projectiles lol
+- DI Toon Link up smash the opposite direction he’s facing
+
+Villager
+Things to watch out for: Fair, Bowling ball at ledge/platforms, up smash
+Stages to ban: 
+- pellet shield lloid
+- dash attack connects into hydrant very well
+- fair gets stonger the closeer u are to it
+
+Wario
+Things to watch out for: 
+Stages to ban: Town
+- Circle camp this man forever
+- Respect the bike. Its annoying to deal with when it’s on stage
+
+Wii Fit Trainer
+Things to watch out for: 
+Commonly used move on hydrant: dtilt, ftilt, soccer ball, sun salutation
+Ledge Expert, Deep breathing moves, soccer ball, sun
+Stages to ban: BF, SV, Town
+- Keep your distance
+- Don’t forget the assignment just cuz you’re winning
+- Precision Combos! Wii Fit is skinny af, so be sure to execute your setups with precision.
+- Get in Wii Fit’s face when you can. Your moves are more direct than hers
+- Be careful how you place hydrant at ledge. Wii fit fraile ass can dodge a lot
+- Be ready to shield soccer ball and sun salutation at all times
+- Rarely ever approach wii fit when she has deep breathing. Try to stop her from getting it when it matters the most
+- Non-deep breathing soccer ball will never one shot the hydrant
+- Keep her at ledge
+- uptilt is intangible so don’t mash aerials when being comboed by it
+- Keep your composure during last hit scenarios especially
+- Force that panic approach option as you inch closer to Wii fit 
+- Wii Fit players will always preserve their resources off stage so remember that when edge guarding them
+- DO NOT force the edge guard
+- Sun Salutation will never hit below ledge
+- Wii Fit dash attack is -20 on shield
+- Don’t challenge header up close
+- Understand when it’s okay to charge fruit and when it’s not. When it’s not safe to charge, just forget about it and try again later
+- The longer it takes them to hit the ball, the more diagonal the ball will travel
+- Don’t be scared of charge moves
+- Try and force the high recover. Wii Fit doesn’t have much control over her up b when we force her to reroute 
+- Most Wii fit players will mash on your shield with deep breathing
+
+🛡️ Out of Shield Punishes vs Wii Fit Trainer
+    - Nair (First Hit): FF, Falling Aerials, Aerial Delay 19, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Nair (Second Hit): FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS (Not Worth Labbing)
+
+    - Fair (Front Hit); FF, Falling Aerials, Aerial Delay 19, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs, Ftilt
+
+    - Fair (Front Hit/Deep Breathing): FF, Falling Aerials, Aerial Delay 17, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs, Ftilt
+
+    - Fair (Back Hit): FF, Falling Aerials, Aerial Delay 19, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+    - Fair (Back Hit/Deep Breathing): FF, Falling Aerials, Aerial Delay 17, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+    - Bair: FF, Falling Aerials, Aerial Delay 26, Full Hop
+        - OoS: Up B, Zdrop Nair
+        - Parry OoS: Up B, Zdrop Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair (Deep Breathing): FF, Falling Aerials, Aerial Delay 22, Full Hop
+        - OoS: Up B, Zdrop Nair
+        - Parry OoS: Up B, Zdrop Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+Wolf
+Things to watch out for: Ledge Fiend, Bair, Up Smash, ftilt, back throw, uptilt
+Stages to ban: SV, Town, Kalos
+- Be ready to punish overhead approaches
+- Maintain a threatening distance against wolf. Wolf’s air speed makes his burst range harder to chase around
+- Play housekeeping against aggro wolf players
+- This is a very patient MU so don’t bite first 
+- Be careful how you use hydrant in this MU. I gotta box wolf in this MU, so hydrant won’t help you as much
+- Wolf will likely shoot laser to catch you charging or when you’re off stage, so make sure you’re protected/ready to react at all times
+
+🛡️ Out of Shield Punishes vs Wolf
+Nair: FF, FF Delay 3, Falling Aerials
+OoS: Up B, Zdrop
+Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+Bair: FF, FF Delay 12, Falling Aerials
+OoS: Up B, Zdrop, Nair, Fair, Dair, Up Smash, Fruit Throw
+Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Up Smash, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+
+Fair: FF, FF Delay 3, Falling Aerials
+OoS: Up B, Zdrop, Nair, 
+Parry Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+Yoshi
+Things to watch out for: Ledge Expert, any aerial, down b
+Stages to ban: BF, Town, Kalos
+- Yoshi commits in one direction in the air, simply just run under the way he’s heading
+- Yoshi players never snap ledge
+-  Punish Yoshi’s short hop range
+- Play the long game
+- Pay attention to egg habits
+- Catch on to command grab habits and be ready for it
+- Shield multihit moves completely
+- Watch out for down throw confirms at ledge. They might be looking to spike you by forcing an airdodge
+
+🛡️ Out of Shield Punishes vs Yoshi
+    - Nair: FF, Falling Aerials, Aerial Delay 25, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs (With Proper Spacing), Ftilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 9, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throwc, Jabs (With Proper Spacing), Ftilt, Dtilt (With Proper Spacing)
+
+    - Bair: FF, Aerial Delay 7
+        - OoS: Up B, Zdrop, Nair, Fruit Throw, 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Ftilt, Dtilt, Up smash (Must be up close)
+
+    - Dair:
+        - OoS: Up B, Zdrop, Nair, Dair (Only Up Close), Fruit Throw, Up Smash
+        - Parry OoS (Last Hit Only): Up B, Zdrop, Nair, Dair (Only Up Close), Fruit Throw, Fsmash, Up Smash, Down Smash, Jabs, Ftilt, Dtilt, Key
+
+    - Uair: FF, Falling Aerials, Aerial Delay 10
+        - OoS: Up B, Zdrop (Only In front facing Yoshi),
+        - Parry OoS: Up B, Zdrop, Nair, Ftilt , Dtilt (With Proper Spacing)
+
+Young Link
+Things to watch out for: 
+Stages to ban: BF, SV, Hollow
+- Be ready to react to arrows at all times
+- Ftilt hits below ledge 
+- Keep your distance. All your projectiles beat his
+
+Zelda
+Things to watch out for: Ledge Fiend, Ledge Expert (Teleport)
+Stages to ban: BF, SV, Hollow
+- Every Zelda player plays the same
+- If you hit zelda before the knight goes off it’ll deactivate it
+- Zelda’s up b is only intangible when it disappears
+- Try and understand neutral b and up b habits. They seem to be the most overused
+- Our zoning out ranges zeldas. Think about that when you’re being pressured
+
+Zero Suit Samus
+Things to watch out for: Ledge Fiend/Ledge Expert Down b into up b, Side b, Up Smash, Bair, Fair off stage, Up throw at higher percents, down smash at ledge
+Stages to ban: BF, Town, Kalos
+- Slow her down. Don’t ever chase. You get outclassed in both the air and ground
+- Get comfortable in those corners when you need to
+- Retreat to the ledge when you need
+- ZSS will whiff punish the shit outta you. 
+- Choose your moments wisely
+- ZSS grab goes through hydrant
+- Getting naired in the corner could be devastating
+- Know when it’s safe to charge and hide behind hydrant
+- ZSS players will go deep for those edge guards so recover smartly
+- Use bell to take out stocks when you can.
+- Melon goes through side b
+
+🛡️ Out of Shield Punishes vs ZSS
+    - Nair: FF, FF Delay 4, Falling Aerials 
+        - OoS: Up B, Z drop
+        - Parry OoS: Up B, Z drop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt,
+
+    - Bair: FF, Falling Aerials, Aerial Delay 20, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Fair (1st Hit): FF, Falling Aerials, Aerial Delay 23
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+    - Fair (2nd Hit): FF, Falling Aerials, Aerial Delay 12
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+

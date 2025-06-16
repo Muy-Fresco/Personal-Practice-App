@@ -1,0 +1,452 @@
+{
+  "Aegis": {
+    "Mythra": {
+      "BF_Kalos": 161,
+      "SV_Town": 160,
+      "SBF_FD_PS2_Hollow": 154
+    },
+    "Pyra": {
+      "BF_Kalos": 166,
+      "SV_Town": 165,
+      "SBF_FD_PS2_Hollow": 159
+    }
+  },
+  "Banjo & Kazooie": {
+    "BF_Kalos": 171,
+    "SV_Town": 170,
+    "SBF_FD_PS2_Hollow": 164
+  },
+  "Bayonetta": {
+    "BF_Kalos": 151,
+    "SV_Town": 150,
+    "SBF_FD_PS2_Hollow": 144
+  },
+  "Bowser": {
+    "BF_Kalos": 202,
+    "SV_Town": 200,
+    "SBF_FD_PS2_Hollow": 194
+  },
+  "Bowser Jr.": {
+    "BF_Kalos": 173,
+    "SV_Town": 172,
+    "SBF_FD_PS2_Hollow": 165
+  },
+  "Byleth": {
+    "BF_Kalos": 167,
+    "SV_Town": 166,
+    "SBF_FD_PS2_Hollow": 160
+  },
+  "Captain Falcon": {
+    "BF_Kalos": 172,
+    "SV_Town": 171,
+    "SBF_FD_PS2_Hollow": 165
+  },
+  "Chrom": {
+    "BF_Kalos": 164,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 157
+  },
+  "Cloud": {
+    "BF_Kalos": 168,
+    "SV_Town": 167,
+    "SBF_FD_PS2_Hollow": 161
+  },
+  "Corrin": {
+    "BF_Kalos": 165,
+    "SV_Town": 164,
+    "SBF_FD_PS2_Hollow": 158
+  },
+  "Daisy": {
+    "BF_Kalos": 157,
+    "SV_Town": 157,
+    "SBF_FD_PS2_Hollow": 152
+  },
+  "Dark Pit": {
+    "BF_Kalos": 164,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 157
+  },
+  "Dark Samus": {
+    "BF_Kalos": 177,
+    "SV_Town": 176,
+    "SBF_FD_PS2_Hollow": 169
+  },
+  "Diddy Kong": {
+    "BF_Kalos": 158,
+    "SV_Town": 157,
+    "SBF_FD_PS2_Hollow": 152
+  },
+  "Donkey Kong": {
+    "BF_Kalos": 191,
+    "SV_Town": 189,
+    "SBF_FD_PS2_Hollow": 183
+  },
+  "Dr. Mario": {
+    "BF_Kalos": 166,
+    "SV_Town": 165,
+    "SBF_FD_PS2_Hollow": 159
+  },
+  "Duck Hunt": {
+    "BF_Kalos": 157,
+    "SV_Town": 156,
+    "SBF_FD_PS2_Hollow": 150
+  },
+  "Falco": {
+    "BF_Kalos": 152,
+    "SV_Town": 151,
+    "SBF_FD_PS2_Hollow": 146
+  },
+  "Fox": {
+    "BF_Kalos": 147,
+    "SV_Town": 145,
+    "SBF_FD_PS2_Hollow": 140
+  },
+  "Ganondorf": {
+    "BF_Kalos": 182,
+    "SV_Town": 181,
+    "SBF_FD_PS2_Hollow": 174
+  },
+  "Greninja": {
+    "BF_Kalos": 156,
+    "SV_Town": 155,
+    "SBF_FD_PS2_Hollow": 149
+  },
+  "Hero": {
+    "BF_Kalos": 169,
+    "SV_Town": 168,
+    "SBF_FD_PS2_Hollow": 162
+  },
+  "Ice Climbers": {
+    "BF_Kalos": 163,
+    "SV_Town": 162,
+    "SBF_FD_PS2_Hollow": 156
+  },
+  "Ike": {
+    "BF_Kalos": 174,
+    "SV_Town": 173,
+    "SBF_FD_PS2_Hollow": 167
+  },
+  "Incineroar": {
+    "BF_Kalos": 182,
+    "SV_Town": 180,
+    "SBF_FD_PS2_Hollow": 174
+  },
+  "Inkling": {
+    "BF_Kalos": 162,
+    "SV_Town": 161,
+    "SBF_FD_PS2_Hollow": 155
+  },
+  "Isabelle": {
+    "BF_Kalos": 159,
+    "SV_Town": 157,
+    "SBF_FD_PS2_Hollow": 152
+  },
+  "Jigglypuff": {
+    "BF_Kalos": 137,
+    "SV_Town": 137,
+    "SBF_FD_PS2_Hollow": 132
+  },
+  "Joker": {
+    "BF_Kalos": 160,
+    "SV_Town": 159,
+    "SBF_FD_PS2_Hollow": 153
+  },
+  "Kazuya": {
+    "BF_Kalos": 181,
+    "SV_Town": 179,
+    "SBF_FD_PS2_Hollow": 173
+  },
+  "Ken": {
+    "BF_Kalos": 173,
+    "SV_Town": 172,
+    "SBF_FD_PS2_Hollow": 167
+  },
+  "King Dedede": {
+    "BF_Kalos": 192,
+    "SV_Town": 191,
+    "SBF_FD_PS2_Hollow": 184
+  },
+  "King K. Rool": {
+    "BF_Kalos": 198,
+    "SV_Town": 196,
+    "SBF_FD_PS2_Hollow": 189
+  },
+  "Kirby": {
+    "BF_Kalos": 146,
+    "SV_Town": 146,
+    "SBF_FD_PS2_Hollow": 141
+  },
+  "Link": {
+    "BF_Kalos": 171,
+    "SV_Town": 170,
+    "SBF_FD_PS2_Hollow": 164
+  },
+  "Little Mac": {
+    "BF_Kalos": 157,
+    "SV_Town": 156,
+    "SBF_FD_PS2_Hollow": 150
+  },
+  "Lucas": {
+    "BF_Kalos": 163,
+    "SV_Town": 162,
+    "SBF_FD_PS2_Hollow": 156
+  },
+  "Lucario": {
+    "BF_Kalos": 162,
+    "SV_Town": 160,
+    "SBF_FD_PS2_Hollow": 155
+  },
+  "Lucina": {
+    "BF_Kalos": 160,
+    "SV_Town": 159,
+    "SBF_FD_PS2_Hollow": 153
+  },
+  "Luigi": {
+    "BF_Kalos": 165,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 158
+  },
+
+  "Mario": {
+    "BF_Kalos": 166,
+    "SV_Town": 165,
+    "SBF_FD_PS2_Hollow": 159
+  },
+  "Marth": {
+    "BF_Kalos": 160,
+    "SV_Town": 159,
+    "SBF_FD_PS2_Hollow": 153
+  },
+  "Mega Man": {
+    "BF_Kalos": 171,
+    "SV_Town": 170,
+    "SBF_FD_PS2_Hollow": 164
+  },
+  "Metaknight": {
+    "BF_Kalos": 148,
+    "SV_Town": 147,
+    "SBF_FD_PS2_Hollow": 142
+  },
+  "Mewtwo": {
+    "BF_Kalos": 147,
+    "SV_Town": 146,
+    "SBF_FD_PS2_Hollow": 141
+  },
+  "Mii Brawler": {
+    "BF_Kalos": 161,
+    "SV_Town": 160,
+    "SBF_FD_PS2_Hollow": 154
+  },
+  "Mii Gunner": {
+    "BF_Kalos": 172,
+    "SV_Town": 171,
+    "SBF_FD_PS2_Hollow": 164
+  },
+  "Mii Swordfighter": {
+    "BF_Kalos": 167,
+    "SV_Town": 166,
+    "SBF_FD_PS2_Hollow": 159
+  },
+  "Min Min": {
+    "BF_Kalos": 173,
+    "SV_Town": 171,
+    "SBF_FD_PS2_Hollow": 165
+  },
+  "Mr. Game and Watch": {
+    "BF_Kalos": 144,
+    "SV_Town": 143,
+    "SBF_FD_PS2_Hollow": 138
+  },
+  "Ness": {
+    "BF_Kalos": 163,
+    "SV_Town": 162,
+    "SBF_FD_PS2_Hollow": 156
+  },
+  "Olimar": {
+    "BF_Kalos": 150,
+    "SV_Town": 143,
+    "SBF_FD_PS2_Hollow": 156
+  },
+  "Pac-Man": {
+    "BF_Kalos": 164,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 156
+  },
+  "Palutena": {
+    "BF_Kalos": 159,
+    "SV_Town": 157,
+    "SBF_FD_PS2_Hollow": 152
+  },
+  "Peach": {
+    "BF_Kalos": 157,
+    "SV_Town": 157,
+    "SBF_FD_PS2_Hollow": 152
+  },
+  "Pichu": {
+    "BF_Kalos": 131,
+    "SV_Town": 130,
+    "SBF_FD_PS2_Hollow": 126
+  },
+  "Pikachu": {
+    "BF_Kalos": 149,
+    "SV_Town": 148,
+    "SBF_FD_PS2_Hollow": 143
+  },
+  "Pit": {
+    "BF_Kalos": 164,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 157
+  },
+  "Piranha Plant": {
+    "BF_Kalos": 178,
+    "SV_Town": 177,
+    "SBF_FD_PS2_Hollow": 171
+  },
+  "Pokemon Trainer": {
+    "Charizard": {
+      "BF_Kalos": 184,
+      "SV_Town": 182,
+      "SBF_FD_PS2_Hollow": 176
+    },
+    "Ivysaur": {
+      "BF_Kalos": 165,
+      "SV_Town": 164,
+      "SBF_FD_PS2_Hollow": 158
+    },
+    "Squirtle": {
+      "BF_Kalos": 143,
+      "SV_Town": 143,
+      "SBF_FD_PS2_Hollow": 138
+    }
+  },
+  "R.O.B.": {
+    "BF_Kalos": 174,
+    "SV_Town": 173,
+    "SBF_FD_PS2_Hollow": 167
+  },
+  "Richter": {
+    "BF_Kalos": 175,
+    "SV_Town": 174,
+    "SBF_FD_PS2_Hollow": 168
+  },
+  "Ridley": {
+    "BF_Kalos": 175,
+    "SV_Town": 174,
+    "SBF_FD_PS2_Hollow": 167
+  },
+  "Robin": {
+    "BF_Kalos": 164,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 158
+  },
+  "Rosalina & Luma": {
+    "BF_Kalos": 152,
+    "SV_Town": 150,
+    "SBF_FD_PS2_Hollow": 145
+  },
+  "Roy": {
+    "BF_Kalos": 164,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 157
+  },
+  "Ryu": {
+    "BF_Kalos": 173,
+    "SV_Town": 172,
+    "SBF_FD_PS2_Hollow": 167
+  },
+  "Samus": {
+    "BF_Kalos": 177,
+    "SV_Town": 176,
+    "SBF_FD_PS2_Hollow": 169
+  },
+  "Sephiroth": {
+    "BF_Kalos": 148,
+    "SV_Town": 147,
+    "SBF_FD_PS2_Hollow": 142
+  },
+  "Sheik": {
+    "BF_Kalos": 146,
+    "SV_Town": 145,
+    "SBF_FD_PS2_Hollow": 140
+  },
+  "Shulk": {
+    "BF_Kalos": 165,
+    "SV_Town": 164,
+    "SBF_FD_PS2_Hollow": 159
+  },
+  "Simon": {
+    "BF_Kalos": 175,
+    "SV_Town": 174,
+    "SBF_FD_PS2_Hollow": 168
+  },
+  "Snake": {
+    "BF_Kalos": 174,
+    "SV_Town": 173,
+    "SBF_FD_PS2_Hollow": 166
+  },
+  "Sonic": {
+    "BF_Kalos": 156,
+    "SV_Town": 155,
+    "SBF_FD_PS2_Hollow": 149
+  },
+  "Sora": {
+    "BF_Kalos": 154,
+    "SV_Town": 153,
+    "SBF_FD_PS2_Hollow": 147
+  },
+  "Steve": {
+    "BF_Kalos": 161,
+    "SV_Town": 160,
+    "SBF_FD_PS2_Hollow": 154
+  },
+  "Terry": {
+    "BF_Kalos": 178,
+    "SV_Town": 177,
+    "SBF_FD_PS2_Hollow": 171
+  },
+  "Toon Link": {
+    "BF_Kalos": 160,
+    "SV_Town": 159,
+    "SBF_FD_PS2_Hollow": 153
+  },
+  "Villager": {
+    "BF_Kalos": 162,
+    "SV_Town": 160,
+    "SBF_FD_PS2_Hollow": 155
+  },
+  "Wario": {
+    "BF_Kalos": 172,
+    "SV_Town": 171,
+    "SBF_FD_PS2_Hollow": 165
+  },
+  "Wii Fit Trainer": {
+    "BF_Kalos": 164,
+    "SV_Town": 163,
+    "SBF_FD_PS2_Hollow": 157
+  },
+  "Wolf": {
+    "BF_Kalos": 161,
+    "SV_Town": 160,
+    "SBF_FD_PS2_Hollow": 154
+  },
+  "Yoshi": {
+    "BF_Kalos": 171,
+    "SV_Town": 170,
+    "SBF_FD_PS2_Hollow": 164
+  },
+  "Young Link": {
+    "BF_Kalos": 157,
+    "SV_Town": 156,
+    "SBF_FD_PS2_Hollow": 151
+  },
+  "Zelda": {
+    "BF_Kalos": 154,
+    "SV_Town": 153,
+    "SBF_FD_PS2_Hollow": 148
+  },
+  "Zero Suit Samus": {
+    "BF_Kalos": 150,
+    "SV_Town": 149,
+    "SBF_FD_PS2_Hollow": 144
+  }
+}

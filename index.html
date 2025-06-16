@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Smash Practice App</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Smash Practice App</h1>
+  <p class="subtitle">Player: Fresh | Main: Pac-Man</p>
+
+  <div class="container">
+    <div class="group">
+      <h3>Character Input</h3>
+      <input type="text" id="character-input" placeholder="Enter character name" autocomplete="off" />
+      <button onclick="setCharacter()">Set Character</button>
+      <p id="current-char" style="margin-top:10px; color:#aaa;">No character selected</p>
+    </div>
+
+    <div class="group">
+      <h3>Add/Remove Practice Character</h3>
+      <button onclick="addChar()">Add to Practice List</button>
+      <button onclick="removeChar()">Remove from Practice List</button>
+    </div>
+
+    <div class="group">
+      <h3>View Practice List</h3>
+      <button onclick="viewPractice()">Show Practice List</button>
+    </div>
+
+    <div class="group">
+      <h3>Apple Kill Percentages</h3>
+      <button onclick="showApple()">Show Apple Kills</button>
+    </div>
+
+    <div class="group">
+      <h3>Character Notes</h3>
+      <button onclick="showNotes()">Show Notes</button>
+    </div>
+
+    <div class="group">
+      <h3>Full Roster</h3>
+      <button onclick="viewRoster()">View Roster</button>
+    </div>
+
+      
+
+    <div id="output"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

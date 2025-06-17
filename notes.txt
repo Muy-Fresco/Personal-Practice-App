@@ -51,7 +51,7 @@ Stages to ban: BF, SV, Hollow
             OoS: Up B, Zdrop, Nair
             Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs (With Proper Spacing), Ftilt, Dtilt
 
-Banjo
+Banjo & Kazooie
 Things to watch out for:
 Stages to ban: Hollow SV, Town
 - Approaching is deadass rarely ever safe so keep your distance
@@ -437,7 +437,7 @@ Stages to ban: BF, Town
 - SDI Up and mash up b to get outta uair infinite
 
 Kazuya
-Things to watch out for: Kazuya Mishima
+Things to watch out for: Kazuya Mishima, ewgf, up b oos, rage drive
 Stages to ban: BF, SV, Town
 - Out of all the FGCs these ones are the most cancerous
 - Similarly to Luigi, make sure to alert and setup before engaging. This could prevent early stocks if they’re rushing you down 
@@ -445,6 +445,7 @@ Stages to ban: BF, SV, Town
 - Most Kazuya players will use laser when they’re off stage. Edge guard/ledge trap accordingly
 - Kazuya can dash attack through hydrant
 - Understand when to give Kazuya his space. His burst range is literally untouchable
+- Kazuya's like to do that side b from ledge bs. It's -38 if you shield it
 
 🛡️ Out of Shield Punishes vs Kazuya
 Nair: FF, Falling Aerials, Aerial Delay 4, Full Hop
@@ -481,6 +482,37 @@ Stages to ban:  BF, PS2, SV
 - Try and realize when ddd will go off stage fo edge guard you 
 - Get off the ledge when you can, but watch out for uair that will beat out everything you try to do
 - Don’t hit his shield at higher percents with an aerial. He’s gonna go for up smash oos
+
+King K. Rool
+Things to watch out for: Ledge Fiend, Down Throw setups, dash attack, fair, uair, smash attacks, 
+Stages to ban:  SV, Town, Hollow
+- Every aerial he throws is punishable with nair oos (besides nair)
+- When Krool’s in the air, he’s scouting. Although his presence is intimidating, don’t be afraid to challenge with an aerial if you think it’s safe to do so.
+- Shield crown and grab him
+- Key and fsmash beat crown armor
+- Only unstale cannonball goes through hydrant
+- Don’t respect him too much
+- Don’t use hydrant too much
+- Edge guard with hydrant every time he’s off stage. Set up for hydrant key
+- Be ready to react to counter. Don’t let it discourage you from throwing projectiles it’s not a reliable one. 
+- Stay focused
+
+🛡️ Out of Shield Punishes vs King K. Rool
+    - Nair (Strong Hit Frames 7-8): FF, Falling Aerials, Aerial Delay 15, Full Hop
+        - OoS: Up B
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+    
+    - Nair (Late Hit): FF, Falling Aerials, Aerial Delay 12, Full Hop
+        - OoS: Up B, Zdrop,
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, Jabs, Ftilt, Dtilt
+    
+    - Fair: FF, Falling Aerials, Aerial Delay 8, Full Hop
+        - OoS: Up B, Zdrop, Nair (Weak Hit only)
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, Jabs, Ftilt, Dtilt
+    
+    - Bair: FF, FF Delay 9, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash, Key, Fire Hydrant 
 
 Kirby
 Things to watch out for: Down b, bair, dair into down smash, fair into fsmasg,

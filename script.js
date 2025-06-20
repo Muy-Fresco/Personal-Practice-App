@@ -87,33 +87,21 @@ class Player {
     }
   
     getNotes(name) {
-        const resolved = this.resolveNickname(name);
-        if (!resolved) return "Character not found.";
-      
-        const lines = this.notes.split("\n");
-        const results = [];
-        let capturing = false;
-      
-        for (const line of lines) {
-          const trimmed = line.trim();
-          const lineResolved = this.resolveNickname(trimmed);
-      
-          if (trimmed === resolved) {
-            capturing = true;
-            continue;
-          }
-      
-          if (capturing && lineResolved && lineResolved !== resolved) {
-            break;
-          }
-      
-          if (capturing) {
-            results.push(line);
-          }
+      const resolved = this.resolveNickname(name);
+      if (!resolved) return "Character not found.";
+      const lines = this.notes.split("\n");
+      const results = [];
+      let capturing = false;
+      for (const line of lines) {
+        if (line.trim() === resolved) {
+          capturing = true;
+          continue;
         }
-      
-        return results.length ? results.join("\n") : "No notes found.";
-      }      
+        if (this.characters.includes(line.trim()) && line.trim() !== resolved && capturing) break;
+        if (capturing) results.push(line);
+      }
+      return results.length ? results.join("\n") : "No notes found.";
+    }
   }
   
   const player = new Player("Fresh", "Pac-Man");

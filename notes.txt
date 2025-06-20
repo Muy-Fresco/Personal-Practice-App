@@ -827,7 +827,7 @@ Ram ram and dragon laser go through laser
 - Orange, Key, galaga, and melon are your best friend
 - Trampoline will scuff out grounded megawatt and dragon
 
-Mr. Game and Watch
+Mr. Game & Watch
 Things to watch out for: Ledge Fiend/Ledge Expert Down Smash -> Up smash/Fsmash, Usmash, Fair pressure, Bair offstage, uair ladders, nair off the top, ftilt, dtilt,
 Stages to ban: BF, SV, Hollow
 - Light shoto
@@ -859,7 +859,6 @@ Stages to ban: BF, SV, Hollow
         - OoS: Up B, Zdrop (Trades), Nair 
         - Parry OoS: Up B, Zdrop, Nair, Dair, Jabs, Ftilt, Dtilt
         - Note: The explosion itself it positive on shield when gnw is landing, so it’s important to punish the initial hit before the explosion before it becomes safe 
-
 
 Ness
 Things to watch out for: Ledge Expert, Back throw, all aerials

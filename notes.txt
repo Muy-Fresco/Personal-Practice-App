@@ -392,6 +392,7 @@ Stages to ban:
 - Stay patient
 - Don’t get caught charging
 - Menu is only as much as an issue as you make it out to be. Hero is completely vulnerable till he throws something out, so be sure to catch on to when hero wants to use it, and play around it
+- ^ In addition to this, don’t try and chase the menu if you feel like you can’t interrupt it in time. You may run into spells you don’t need to get hit by
 - Hero will likely approach you if he has no MP
 - Time a neutral getup to avoid kaboom at ledge
 
@@ -818,7 +819,7 @@ Min Min
 Things to watch out for: Ledge Fiend
 Stages to ban: SV, Town, Hollow
 - Play around her burst range. ALL OF IT
-Ram ram and dragon laser go through laser
+- Ram ram and dragon laser go through laser
 - Don’t let her stop you from setting up at the beginning of the match. Set up the precautions before she gets close.
 - Place hydrant in front of min min to close the distance
 - Min Min players will edge guard tf outta you cuz they can

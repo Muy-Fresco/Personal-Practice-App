@@ -70,6 +70,15 @@ Stages to ban:
 - SDI outta combos
 - Play poise and grounded. The last thing you need happening to you is getting whiff punished
 
+🛡️ Out of Shield Punishes vs Bayonetta
+    - Nair: FF, Falling Aerials, Aerial Delay 14, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair: FF, Falling Aerials, Aerial Delay 11, Full Hop
+        - OoS: Up B, Zdrop, Nair (With Good Spacing), 
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, Jabs, Ftilt, Dtilt
+
 Belmonts
 Things to watch out for: Ledge Fiend
 Stages to ban: BF, SV, Hollow
@@ -115,6 +124,18 @@ Stages to ban:
 - Recover smartly. They like to go for up b a lot off stage 
 - Watch out for their overhead approaches
 - Be careful of up b habits
+
+🛡️ Out of Shield Punishes vs Byleth
+    - Nair: FF
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Fsmash, Down Smash, Jabs, Ftilt, Dtilt, Key, Fire Hydrant 
+
+    - Fair: FF, FF Delay 3, Falling Aerials, Full Hop 
+        - OoS Close Range: Up B, Zdrop, Nair,
+        - Parry OoS Close Range: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant 
+
+    - OoS Far Range: None
+        - Parry OoS Far Range: None 
 
 Captain Falcon
 Things to watch out for: Ledge Fiend
@@ -169,12 +190,21 @@ Things to watch out for:
 Stages to ban: 
 - Edge guard him carefully. Place hitboxes where he’s destined to be
 
+🛡️ Out of Shield Punishes vs Chrom
+    - Nair (First Hit): FF, Falling Aerials, Aerial Delay 14, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Nair (Second Hit): FF, FF Delay 7, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
 Cloud
 Things to watch out for: Ledge Fiend, Up Smash, bair, dair, ftilt, dash attack
 Stages to ban: BF, SBF, PS2, 
 - Be wary of bair pressure especially in the corner
 - Respect Cloud when it’s his turn to disrespect you
-- Burst range is cherry range for cloud. Stay our of that range
+- Burst range is cherry range for cloud. Stay out of that range
 - Pac is very susceptible to getting juggled hard every time by this character so use your resources carefully
 - Don’t be scared to shield. His grabs aren’t that crazy
 - Don’t let him walk all over you. Understand what his burst range is and play around it
@@ -203,6 +233,25 @@ Stages to ban:
 - Don’t spend too much time in the air. Play grounded when needed
 - This is one of those MUs where you can only setup when the coast is clear, so rememeber to keep moving and stay evasive
 - Watch how you recover. Bair and pin could become threats offstage
+
+🛡️ Out of Shield Punishes vs Corrin
+    - Nair: FF, Falling Aerials, Aerial Delay 18, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant 
+
+    - Fair: FF, Falling Aerials, Aerial Delay 14, Full Hop
+        - OoS: Up B, Zdrop (Only In Front Facing Corrin)
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+
+    - Bair: FF, Falling Aerials, Aerial Delay 3, Full Hop
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash
+        - Parry OoS: Up B, Zdrop, Nair, Dashed Fair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant, Key 
+
+        Note: All punishes OoS and parry are very situational due to the momentum corrin gets from performing bair. Best punish from afar is key out of parry
+
+    - Uair: FF, Falling Aerials, Aerial Delay 17, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
 
 Diddy Kong
 Things to watch out for: Banana into fsmash, dtilt bair, dtilt upsmash, monkey flip
@@ -239,6 +288,11 @@ Stages to ban:
 - DK Punch is -4 and has armor both in the air and on ground 
 - Down B breaks hydrant well
 - Watch how you land on shield. Skilled dk players know how to do aerial up b oos
+
+🛡️ Out of Shield Punishes vs Donkey Kong
+    - Bair: FF, Falling Aerials
+        - OoS: Up B, Zdrop, Nair, 
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Jabs, Ftilt, Dtilt, Fruit Throw, Fire Hydrant
 
 Dr. Mario
 Things to watch out for: Up B OOS, Ledge Fiend, up b oos, all aerials, LANDING nair, Up Smash, Down b, caped projectiles
@@ -353,6 +407,19 @@ Stages to ban: BF, Kalos, Town
 Ganondorf
 Things to watch out for: Dair, all smash attacks, all aerials
 Stages to ban: SBF, PS2, Town
+
+🛡️ Out of Shield Punishes vs Ganondorf
+    - Nair: FF, Fast Fall Delay 12, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Nair, Zdrop, Fruit Throw, Fair, Ftilt, Dtilt, Jabs
+
+    - Bair: FF, Falling Aerials, Aerial Delay 3, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Jabs, Nair, Fair, Fruit Throw, Zdrop, Ftilt, Dtilt
+
+    - Fair: FF, Fast Fall Delay 7, Falling Aerials
+        - OoS: Up B, Nair, Zdrop, 
+        - Parry OoS: Up B, Nair, Zdrop, Fair, Jabs, Ftilt, Dtilt, Dair, Fruit Throw 
 
 Greninja
 Things to watch out for: Dash attack into fair, up smash, down b,
@@ -492,6 +559,24 @@ Stages to ban:
 - Inkling aerials have more priority than yours
 - Splat bomb one shots hydrant
 
+🛡️ Out of Shield Punishes vs Inkling
+    - Bair: FF, Falling Aerials, Aerial Delay 18, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs, Ftilt
+
+    - Nair: FF, Falling Aerials, Aerial Delay 8
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs Ftilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - OoS: Up B, Zdrop, Nair, 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw (Only Up Close), Jabs, Ftilt, Dtilt, Up smash
+
+        - Note: Up Smash is very unreliable. It only works up close and you can’t be behind Inkling. If possible, throw a bell out of shield, before linking smash attack.
+
+
+
+
 Isabelle
 Things to watch out for: Ledge Fiend Fishing Rod, grab throws, slingshot, up smash
 Stages to ban: BF, SV, Kalos
@@ -521,6 +606,57 @@ Stages to ban: BF, Town
 - Don’t stand too far away from hydrant. You gotta keep a certain distance away from Joker 
 - Don’t be scared of arsene, but also give it enough respect to not go for dumb shit
 - SDI Up and mash up b to get outta uair infinite
+
+🛡️ Out of Shield Punishes vs Joker
+    - Nair (First Loop): FF, FF Delay 3, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Fruit Throw, Nair, Ftilt, Dtilt (with proper spacing)
+
+    - Arsene Nair (First Loop): FF, FF Delay 3, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Fruit Throw, Nair, Ftilt, Dtilt (with proper spacing)
+
+    - Nair (Second Loop): FF, FF Delay 17, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Fruit Throw, Nair, Fair, Jabs, Ftilt, Dtilt, 
+
+    - Arsene Nair (Second Loop): FF, FF Delay 17, Falling Aerials, Full Hop
+        - OoS: Nair, Fair, Up B, Zdrop 
+        - Parry OoS: Nair, Fair, Up B, Z drop, Up Smash, Jabs, Ftilt, Dtilt
+
+        - Note: Can only act out of the second hit when parrying arsene Nair
+
+    - Fair (First Hit): FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fruit Throw, Dair
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Dair, Jabs, Ftilt, Dtilt (With proper spacing), Up smash, Fire Hydrant (With Proper Spacing), Key
+
+    - Arsene Fair (First Hit): FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fruit Throw, Dair
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Dair, Jabs, Ftilt, Dtilt (With proper spacing), Up smash, Fire Hydrant (With Proper Spacing)
+
+    - Fair (Second Hit): FF, FF Delay 3, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fruit Throw, 
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Dair, Up Smash, Jabs, Dtilt, Ftilt, Fire Hydrant, Key
+
+    - Arsene Fair (Second Hit): FF, FF Delay 3, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair,  Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt, Fire Hydrant
+
+    - Bair: FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Arsene Bair: FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Dair: FF, FF Delay 4, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt 
+
+    - Arsene Dair: FF, FF Delay 7, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash (Only with sword hit)
 
 Kazuya
 Things to watch out for: Kazuya Mishima, ewgf, up b oos, rage drive
@@ -581,6 +717,15 @@ Stages to ban:  BF, PS2, SV
 - Try and realize when ddd will go off stage fo edge guard you 
 - Get off the ledge when you can, but watch out for uair that will beat out everything you try to do
 - Don’t hit his shield at higher percents with an aerial. He’s gonna go for up smash oos
+
+🛡️ Out of Shield Punishes vs King Dedede
+    - Bair: FF, FF Delay 1, Aerial Delay 7
+        - OoS: Up B, Zdrop, Nair, Fair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Bair, Dair Up Smash, Jabs, Ftilt, Dtilt, Fruit Throw,
+
+    - Fair: FF, FF Delay 4, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Backwards Fruit Throw, Up Smash
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Backwards Fruit Throw, Up Smash, Fsmash, Dsmash, Jabs, Ftilt, Dtilt, Utilt, Fire Hydrant, Key
 
 King K. Rool
 Things to watch out for: Ledge Fiend, Down Throw setups, dash attack, fair, uair, smash attacks, 
@@ -656,6 +801,34 @@ Stages to ban: BF, Kalos
 - Lucario will likely recover high. Try to jump over where he’ll land punish when you can
 - Pellet shield grounded aura spheres only. Raise the pellet up if you suspect it going over your head a little bit
 
+🛡️ Out of Shield Punishes vs Lucario
+    - Nair: FF, Falling Aerials, Aerial Delay 15, Full Hop 
+        0%
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs, Ftilt
+
+        65%
+        - OoS: None
+        -Parry OoS: Up B, Zdrop, Jabs
+
+        190%
+        - OoS: None
+        - Parry OoS: None
+
+    - Bair: FF, Falling Aerials, Aerial Delay 9, Full Hop
+
+        0%
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash, Fire Hydrant, Key
+
+        65%
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash, Fire Hydrant, Key
+
+        190%
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Ftilt, Dtilt
+
 Lucas
 Things to watch out for: Ledge Fiend (At Kill Percent), Ledge Expert (Lowkey), All throws besides dthrow, Down Smash at ledge, Fair, Uptilt, Up Smash during weird scenarios
 Stages to ban: BF, SBF, Town
@@ -673,6 +846,19 @@ Lucina
 Things to watch out for: Fsmash, ftilt, any aerial, shield break punishes
 Stages to ban: 
 - Stay out of her range
+
+🛡️ Out of Shield Punishes vs Lucina
+    - Nair (First Hit): FF, Falling Aerials, Aerial Delay 21, Full Hop 
+        - OoS: Up B
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt 
+
+    - Nair (Second Hit): FF, FF Delay 3, Falling Aerials, Full Hop 
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 21, Full Hop 
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair (With Proper Spacing), Dair, Fruit Throw, Jabs, Ftilt, Dtilt
 
 Luigi
 Things to watch out for: When Luigi uairs you on a platform, nair it, Usmash in neutral at 0 is punishable with nair, Pellet shield those fireballs past ledge, and punish the overhead one, Ledge Fiend
@@ -707,7 +893,6 @@ Stages to ban: BF, SV, Hollow
     - Uair: FF, Falling Aerials, Aerial Delay 14
         - OoS: None
         - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
-
 
 Mario
 Things to watch out for: Up Smash, Dair, Uair Strings, Back Throw, Bair
@@ -752,6 +937,19 @@ Stages to ban:
 - Chances are if mega man throws blade and crash at hydrant, chances are it will beat it out so respect it
 - They will often high recovery to get past ledge traps
 - Lemon pressure will stop you from charging
+
+🛡️ Out of Shield Punishes vs Mega Man
+    - Fair: FF, Falling Aerials, Aerial Delay 11, Full Hop
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair: FF, Falling Aerials, Aerial Delay 18, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Up Smash
+        - Parry OoS:  Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Up Smash, Fsmash, Down Smash, Bonus Fruit Throw, Jabs, Ftilt, Dtilt, Key, Hydrant 
+
+    - Uair: FF, Falling Aerials, Aerial Delay 8, Full Hop
+        - OoS: None
+        - Parry OoS: Jabs, Fruit Throw (Timing and spacing has to be immaculate)
 
 Meta Knight
 Things to watch out for: BF, Town, Kalos
@@ -990,6 +1188,19 @@ Stages to ban: BF, SBF, Kalos
 - Do the race
 - Pichu WILL die to something the higher his percent is
 
+🛡️ Out of Shield Punishes vs Pichu
+    - Nair: FF, Falling Aerials, Aerial Delay 21, Full Hop 
+        - OoS: Up B, Zdrop (In Front Only), 
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt 
+
+    - Fair: FF, Falling Aerials, Aerial Delay 12, Full Hop 
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt 
+
+    - Bair: FF, Falling Aerials, Aerial Delay 19, Full Hop 
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash (Situational)
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash (Situational), Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+
 Pikachu
 Things to watch out for: 
 Stages to ban: FD, Town, Kalos
@@ -1002,6 +1213,21 @@ Stages to ban: FD, Town, Kalos
 - Trampoline at ledge extends fsmash hitbox
 - Pikachu will edge guard you from everywhere so watch how you recover
 - Try and whiff punish what you can: Common move patterns: fade back rising bair, rising fair into dtilt
+
+🛡️ Out of Shield Punishes vs Pikachu
+    - Nair: FF, Falling Aerials, Aerial Delay 25, Full Hop 
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Dair (Situational), Fruit Throw, Ftilt, Dtilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 12, Full Hop
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Up Smash, Ftilt, Dtilt
+
+    - Bair: FF, Falling Aerials, Aerial Delay 35, Full Hop 
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Ftilt, Dtilt,
+        
+        - Note: Not only does Pikachu’s Bair low profile, it also shifts it hurtbox farther out, making the punishes less readable 
 
 Piranha Plant​​
 Things to watch out for: Ledge Fiend
@@ -1118,6 +1344,15 @@ Stages to ban: BF, Town, Hollow
 - Really only charge fruit on the ground so you don’t get scuffed out by levin sword
 - Don’t give him enough space to go for weird b thunder moves in burst range
 
+🛡️ Out of Shield Punishes vs Robin
+    - Nair: FF, Falling Aerials, Aerial Delay 19
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B. Zdrop, Nair, Dair, Fruit Throw, Up smash, Jabs, Ftilt, Dtilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 10
+        - OoS: Up B, Zdrop, Nair, 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, 
+
 Rosalina & Luma
 Things to watch out for: 
 Stages to ban: SV
@@ -1166,6 +1401,19 @@ Stages to ban: SBF, SV, Hollow
 - Shield tatsumaki once, and you can punish the rest
 - Fsmash timed properly can hit up b below ledge
 - Don’t trampoline camp too close to
+
+🛡️ Out of Shield Punishes vs Ryu
+    - Nair: FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - OoS: None
+        - Parry OoS: Up B
+
+    - Fair: FF, Falling Aerials, Aerial Delay 11, Full Hop 
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair (Wifh Proper Spacing), Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Bair: FF, Falling Aerials, Aerial Delay 11, Full Hop 
+        - OoS: Up B, Zdrop (Situational)
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
 
 Samus
 Things to watch out for: Ledge Fiend, Ledge Traps, Up Throw, Literally any aerial,
@@ -1280,6 +1528,15 @@ Stages to ban: BF, Town
 - Snake will prolly sticky you if you shield for too long
 - Throw key at cipher
 
+🛡️ Out of Shield Punishes vs Snake
+    - Bair: FF, Falling Aerials, Aerial Delay 14, Full Hop
+        - OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash, Fsmash, Down Smash, Fire Hydrant, Key
+
+    - Nair: FF, FF Delay 6, Full Hop
+        - OoS: Up B, Zdrop, Nair, Fair (With proper spacing), Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash
+        - Parry OoS: Up B, Zdrop, Nair, Fair (With proper spacing), Dair, Fruit Throw, Ftilt, Dtilt, Up Smash, Fire Hydrant, Key
+
 Sonic
 Things to watch out for: 
 Stages to ban: BF, Town, Kalos
@@ -1359,6 +1616,23 @@ Stages to ban:
 - If they’re nairing at ledge they’re probably setting up for a dair
 - Use melon to slow down terry looking for buster wolf
 
+🛡️ Out of Shield Punishes vs Terry
+    - Nair: FF, Falling Aerials, Aerial Delay 20, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+    - Fair: FF, Falling Aerials, Aerial Delay 3
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Jabs, Ftilt, Dtilt 
+
+    - Bair: FF, Falling Aerials, Aerial Delay 7, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Ftilt, Dtilt, Jabs, Fruit Throw 
+
+    - Uair: FF, Falling Aerials, Aerial Delay 15, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs, Ftilt
+
 Toon Link
 Things to watch out for: BF, Kalos
 Stages to ban:
@@ -1402,16 +1676,6 @@ Stages to ban: Town
 
     - Dtilt
         - OoS: Up B, Zdrop, Nair 
-
-
-Snake 
-Bair: FF, Falling Aerials, Aerial Delay 14, Full Hop
-OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash
-Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash, Fsmash, Down Smash, Fire Hydrant, Key
-
-Nair: FF, FF Delay 6, Full Hop
-OoS: Up B, Zdrop, Nair, Fair (With proper spacing), Dair, Fruit Throw, Jabs, Ftilt, Dtilt, Up Smash
-Parry OoS: Up B, Zdrop, Nair, Fair (With proper spacing), Dair, Fruit Throw, Ftilt, Dtilt, Up Smash, Fire Hydrant, Key
 
 Wii Fit Trainer
 Things to watch out for: 
@@ -1485,17 +1749,17 @@ Stages to ban: SV, Town, Kalos
 - Wolf will likely shoot laser to catch you charging or when you’re off stage, so make sure you’re protected/ready to react at all times
 
 🛡️ Out of Shield Punishes vs Wolf
-Nair: FF, FF Delay 3, Falling Aerials
-OoS: Up B, Zdrop
-Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+    - Nair: FF, FF Delay 3, Falling Aerials
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
 
-Bair: FF, FF Delay 12, Falling Aerials
-OoS: Up B, Zdrop, Nair, Fair, Dair, Up Smash, Fruit Throw
-Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Up Smash, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+    - Bair: FF, FF Delay 12, Falling Aerials
+        - OoS: Up B, Zdrop, Nair, Fair, Dair, Up Smash, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Up Smash, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
 
-Fair: FF, FF Delay 3, Falling Aerials
-OoS: Up B, Zdrop, Nair, 
-Parry Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+    - Fair: FF, FF Delay 3, Falling Aerials
+        - OoS: Up B, Zdrop, Nair, 
+        - Parry Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
 
 Yoshi
 Things to watch out for: Ledge Expert, any aerial, down b
@@ -1536,6 +1800,11 @@ Stages to ban: BF, SV, Hollow
 - Be ready to react to arrows at all times
 - Ftilt hits below ledge 
 - Keep your distance. All your projectiles beat his
+
+🛡️ Out of Shield Punishes vs Young Link
+    - Nair: FF, Falling Aerials, Aerial Delay 11
+        - OoS: None
+        - Parry OoS: Up B, Zdrop
 
 Zelda
 Things to watch out for: Ledge Fiend, Ledge Expert (Teleport)

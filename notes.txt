@@ -842,6 +842,27 @@ Stages to ban: BF, SBF, Town
 - Melon powers through PK Fire
 - Pac-Man can up b outta lucas down tilt combos since he’s floaty
 
+🛡️ Out of Shield Punishes vs Lucas
+    - Nair: FF, Aerial Delay 8, Full Hop 
+        - OoS: Up B, Zdrop, Nair, Dair, 
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Up Smash, Fruit Throw, Jabs, Ftilt, Dtilt, Fire Hydrant, Key
+
+    - Fair (Weak Hit): FF, FF Delay 5, Falling, Aerials
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+    - Fair (Strong Hit): FF, FF Delay 5, Falling, Aerials
+        - OoS: None
+        - Parry OoS: Ftilt
+
+    - Bair: FF, FF Delay 3, Falling Aerials, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+    - Uair: FF, FF Delay 3, Falling Aerials
+        - OoS: None
+        - Parry OoS: Up B, Zdrop (Up Close Only), Nair (Up close only), Jabs, Ftilt
+
 Lucina
 Things to watch out for: Fsmash, ftilt, any aerial, shield break punishes
 Stages to ban: 
@@ -1846,4 +1867,3 @@ Stages to ban: BF, Town, Kalos
     - Fair (2nd Hit): FF, Falling Aerials, Aerial Delay 12
         - OoS: Up B, Zdrop, Nair
         - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
-

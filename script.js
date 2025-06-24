@@ -151,6 +151,36 @@ class Player {
     if (!selectedCharacter) return output("No character selected.");
     output(player.getNotes(selectedCharacter));
   }
+
+  function getDAL() {
+    const works = ["Link", "Samus", "Kirby", "Fox", "Pikachu", "Captain Falcon", "Peach", "Sheik", "Zelda", "Marth",
+        "Lucina", "Roy", "Chrom", "Charizard", "Toon Link", "Mega Man", "Wii Fit Trainer", "Rosalina & Luma", "Little Mac", "Pac-Man",
+        "Robin", "Shulk", "Ryu", "Ken", "Bayonetta", "Inkling", "Piranha Plant", "Hero", "Terry", "Kazuya", "Mii Gunner"]
+    
+    const t_works = ["Donkey Kong", "Pit", "Wario", "King Dedede", "R.O.B.", "Wolf",
+        "Palutena", "Corrin", "Simon", "Richter", "Incineroar", "Joker", "Banjo & Kazooie", "Byleth", "Aegis"]
+    
+    const fsmash_lol = ["Mario", "Yoshi", "Luigi", "Ness", "Jigglypuff", "Bowser", "Ice Climbers", 
+        "Dr. Mario", "Pichu", "Falco", "Young Link", "Mewtwo", "Mr. Game & Watch", "Meta Knight", "Zero Suit Samus",
+        "Squirtle", "Ivysaur", "Lucas", "Olimar", "Lucario", "Villager", "Bowser Jr.", "Duck Hunt", "Isabelle",
+        "Min Min", "Mii Brawler", "Mii Swordfighter"]
+
+    let message = "";
+
+    if (works.includes(selectedCharacter)) {
+        message = `Down Smash at Ledge works against ${selectedCharacter}.`;
+    } else if (t_works.includes(selectedCharacter)) {
+        message = `Down Smash at Ledge *typically* works against ${selectedCharacter}, you may want to space it closer to the ledge.`;
+    } else if (fsmash_lol.includes(selectedCharacter)) {
+        message = `Just fsmash ${selectedCharacter} lol.`;
+    } else {
+        message = `Doesn't work on ${selectedCharacter}.`;
+    }
+    
+    output(message);
+    
+    
+  }
   function viewRoster() {
     const list = player.getRoster();
     output(list.length ? "Full Roster:\n" + list.join(", ") : "Roster is empty.");

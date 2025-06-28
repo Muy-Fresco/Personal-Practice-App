@@ -20,6 +20,16 @@ class Player {
       this.nicknames = nicknameData || {};
       this.appleKills = appleData || {};
       this.notes = notesData || "";
+
+      const savedPractice = localStorage.getItem("practiceList");
+      if (savedPractice) {
+        try {
+          this.practiceList = new Set(JSON.parse(savedPractice));
+        } catch (e) {
+          console.error("Failed to parse practice list from localStorage.");
+        }
+      }
+
     }
   
     resolveNickname(input) {
@@ -38,6 +48,7 @@ class Player {
       const resolved = this.resolveNickname(name);
       if (resolved) {
         this.practiceList.add(resolved);
+        this.savePracticeList();
         return `${resolved} added to practice list.`;
       }
       return "Character not found.";
@@ -47,15 +58,22 @@ class Player {
       const resolved = this.resolveNickname(name);
       if (resolved && this.practiceList.has(resolved)) {
         this.practiceList.delete(resolved);
+        this.savePracticeList();
         return `${resolved} removed from practice list.`;
       }
       return "Character not found in practice list.";
+    }
+
+    
+
+    savePracticeList() {
+      localStorage.setItem("practiceList", JSON.stringify([...this.practiceList]));
     }
   
     getPracticeList() {
       return Array.from(this.practiceList).sort();
     }
-  
+    
     getRoster() {
       return this.characters.sort();
     }
@@ -139,6 +157,13 @@ class Player {
     if (!selectedCharacter) return output("No character selected.");
     output(player.removePractice(selectedCharacter));
   }
+
+  function clearPracticeList() {
+    player.practiceList.clear();
+    player.savePracticeList();
+    output("Practice list cleared.");
+  }
+  
   function viewPractice() {
     const list = player.getPracticeList();
     output(list.length ? "Practice List:\n" + list.join(", ") : "Practice list is empty.");

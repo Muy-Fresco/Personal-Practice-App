@@ -341,11 +341,13 @@ Falco
 Things to watch out for: Ledge Fiend, Bair, Up Smash, up tilt confirms, dtilt, fair at higher percents
 Stages to ban: FD, SV, Kalos
 - Shield everything. Falco can’t kill without Up Smash or an aerial
+- Falco controls the air, so respect the combos, but do what you can to make sure you're not in range to get hit by them
 - Be wary of the reflector. It’s active frames 1-33 with only 11 frames of end lag
 - Land safely
 - Punish fair on shield
 - SDI fair
 - Orange is your best fruit in this MU
+- Be ready to react to phantasms on and off stage, especially when you're at kill percent
 - Use hydrant as a wall. Chances are they’ll dtilt it or reflector.
 - Unstale: 5 lasers break hydrant. Stale: 7 lasers break it
 - Be ready for unpredictable side bs. Most of them may go through hydrant

@@ -347,6 +347,7 @@ Stages to ban: FD, SV, Kalos
 - SDI fair
 - Orange is your best fruit in this MU
 - Use hydrant as a wall. Chances are they’ll dtilt it or reflector.
+- Unstale: 5 lasers break hydrant. Stale: 7 lasers break it
 - Be ready for unpredictable side bs. Most of them may go through hydrant
 - Falco’s aerials seem to have more priority than yours so go for whiff punishes when you can
 - Use orange to protect yourself from lasers. If you need to charge a fruit, make sure you’re behind a hydrant first
@@ -1760,10 +1761,11 @@ Stages to ban: BF, SV, Town
         - Parry OoS: Up B, Zdrop Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
 
 Wolf
-Things to watch out for: Ledge Fiend, Bair, Up Smash, ftilt, back throw, uptilt
+Things to watch out for: Ledge Fiend, Bair, Down Smash, Up Smash, Fsmash, ftilt, back throw, uptilt
 Stages to ban: SV, Town, Kalos
 - Be ready to punish overhead approaches
 - Maintain a threatening distance against wolf. Wolf’s air speed makes his burst range harder to chase around
+- Wolf doesn't need much to get started, so continue to play carefully when looking for those kills.
 - Play housekeeping against aggro wolf players
 - This is a very patient MU so don’t bite first 
 - Be careful how you use hydrant in this MU. I gotta box wolf in this MU, so hydrant won’t help you as much

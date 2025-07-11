@@ -79,16 +79,6 @@ Stages to ban:
         - OoS: Up B, Zdrop, Nair (With Good Spacing), 
         - Parry OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, Jabs, Ftilt, Dtilt
 
-Belmonts
-Things to watch out for: Ledge Fiend
-Stages to ban: BF, SV, Hollow
-​​- Shield cross
-- Run away from axe
-- Stay away from ledge at all costs
-- Shield holy water so it bounces off your shield and you can catch it
-- Use less hydrant, and more aerials. Our goal is to shut belmonts down and prevent them from setting up 
-- Don’t mash on shield too much. Their up b is frame 6 and is intangible frame 5-6
-
 Bowser
 Things to look out for: Up B OOS, Dair to land, Side b, bair, uair, fair, nair into any of those moves, ftilt, utilt
 Stages to ban: BF, SBF, Town
@@ -1351,6 +1341,16 @@ Stages to ban: BF, SV, Kalos
 
         - Note: Pellet Shielding makes more moves more reliable to land since it extend bair’s hitbox 
 
+Richter
+Things to watch out for: Ledge Fiend
+Stages to ban: BF, SV, Hollow
+​​- Shield cross
+- Run away from axe
+- Stay away from ledge at all costs
+- Shield holy water so it bounces off your shield and you can catch it
+- Use less hydrant, and more aerials. Our goal is to shut belmonts down and prevent them from setting up 
+- Don’t mash on shield too much. Their up b is frame 6 and is intangible frame 5-6
+
 Ridley
 Things to watch out for: Ledge Fiend, Side b, Up Smash, bair, dash attack
 Stages to ban: BF, SV, Hollow
@@ -1542,6 +1542,16 @@ Stages to ban: SBF, Town, Kalos
     - Fair (Speed): FF, Aerial Delay 1
         - OoS: Up B, Zdrop, Nair
         - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt
+
+Simon
+Things to watch out for: Ledge Fiend
+Stages to ban: BF, SV, Hollow
+​​- Shield cross
+- Run away from axe
+- Stay away from ledge at all costs
+- Shield holy water so it bounces off your shield and you can catch it
+- Use less hydrant, and more aerials. Our goal is to shut belmonts down and prevent them from setting up 
+- Don’t mash on shield too much. Their up b is frame 6 and is intangible frame 5-6
 
 Snake
 Things to watch out for: Ledge Fiend, Down throw combos, utilt, ftilt, C4, Nikita,

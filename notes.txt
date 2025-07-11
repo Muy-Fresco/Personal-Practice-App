@@ -206,6 +206,7 @@ Stages to ban: BF, SBF, PS2,
 - Respect Cloud when it’s his turn to disrespect you
 - Burst range is cherry range for cloud. Stay out of that range
 - Pac is very susceptible to getting juggled hard every time by this character so use your resources carefully
+- You can spotdodge the after the third hit of limit cross slash and punish with a smash attack.
 - Don’t be scared to shield. His grabs aren’t that crazy
 - Don’t let him walk all over you. Understand what his burst range is and play around it
 - Play slow and calculated. Make it a struggle for him to hit you
@@ -457,7 +458,7 @@ Parry OoS: Up B, Zdrop, Nair, Fair (Mid Range Only), Fruit Throw, Jabs, Ftilt, D
 
 Hero
 Things to watch out for: Ledge Fiend/Ledge Expert
-Stages to ban: 
+Stages to ban: BF, SV, Town
 - Play grounded
 - Stay patient
 - Don’t get caught charging
@@ -772,7 +773,7 @@ Stages to ban:
 - HOLD THOSE LEADS
 
 Link
-Things to watch out for: Ledge Fiend
+Things to watch out for: Ledge Fiend,
 Stages to ban: 
 - If they don’t approach, you don’t approach
 - Shield projectiles. You can pellet shield boomerang
@@ -790,10 +791,10 @@ Stages to ban: BF
 - All of his tilts are laggy as shit so punish them oos
 - Don’t be scared of KO Punch, but recognize that it’s a threat so play around it
 - Mac gradually loses resources off stage the more he tries to recover, so remember to just keep him off stage
-- don’t challenge mac smash attacks. Punish the end lag
+- Don’t challenge mac smash attacks. Punish the end lag
 
 Lucario
-Things to watch out for: Bair, side b, fsmash, up air, Aura Sphere, Counter
+Things to watch out for: Fsmash, Bair, side b, up air, Aura Sphere, Counter
 Stages to ban: BF, Kalos
 - Lucario’s love to counter the hydrant
 - This character moves fast so be sure to keep your distance
@@ -806,7 +807,7 @@ Stages to ban: BF, Kalos
 
 🛡️ Out of Shield Punishes vs Lucario
     - Nair: FF, Falling Aerials, Aerial Delay 15, Full Hop 
-        0%
+        0
         - OoS: None
         - Parry OoS: Up B, Zdrop, Jabs, Ftilt
 
@@ -928,6 +929,7 @@ Stages to ban: BF, SV, Town
 - Keep a bell in hand to kill
 - Don’t mash in Mario burst range
 - Stay on your toes. Advantage against that character is not fun
+- Be mindful of DI mixups on dair. If Mario drifts to the left, DI to the right. And vice-versa
 - DI in on uair strings when approaching platforms
 - Punish aerial fire balls
 - Don’t edge guard with projectiles when you are susceptible to being caped
@@ -937,6 +939,7 @@ Stages to ban: BF, SV, Town
 - Be ready to react to Mario’s approach options
 - Use key from afar 
 - react to up close capes
+- Watch out for those DI mixups with dair. Don't just DI in one direction
 - Don’t up b outta combos. The last thing Mario needs is a fucking trampoline
 - With that being said, be careful how you up b ESPECIALLY when he has FLUDD. That could be detrimental 
 - Mario can short hop directly over the hydrant
@@ -1024,9 +1027,10 @@ Stages to ban: BF, Town
 Mii Gunner
 Things to watch out for: Ledge Fiend, Charge shot, fsmash, up tilt, up smash, missles, bair
 Stages to ban: 
-- Strong missle will almost always one shot hydrant unless it’s very stale
+- Strong missle will almost always one shot hydrant unless it’s very stale.
+- ^ In this case, put trampoline in front to stale it
 - Stay patient
-
+- Hit the bomb drops away with an aerial or projectile before they detonate
 - Down tilt sends hydrant very high
 - Box in their face when warranted 
 - Don’t necessarily camp from afar the whole time. Gunner out classes you at that. Moreso use your projectiles as a way of pressuring from a tight spot, and overall shutting down their zone

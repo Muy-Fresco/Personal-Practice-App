@@ -945,6 +945,10 @@ Stages to ban: BF, SV, Town
     - Bair: FF, Falling Aerials, Aerial Delay 9
         - OoS: None
         - Parry OoS: Up B, Zdrop
+    
+    - Uair: FF, Falling Aerials, Aerial Delay 12
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs, Ftilt
 
 Mega Man
 Things to watch out for: Fair, bair, uair, fsmash, up tilt, up smash, down smash

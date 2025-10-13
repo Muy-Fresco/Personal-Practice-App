@@ -1392,6 +1392,9 @@ Tome charges: 3
 Nosferatu: costs 1
 Recharge: Takes a significant amount of time, around 30 seconds, to fully replenish
 
+Levin Sword has 8 charges, 
+Recharge: Approximately 10 seconds
+
 - Fruit Recycling is your best friend
 - Get off the ledge
 - Now that you know the oos punishes, really make Robin pay for losing levin sword

@@ -1365,6 +1365,33 @@ Stages to ban: BF, SV, Hollow
 Robin
 Things to watch out for: Ledge Fiend, any levin aerial, any smash attack, up b spike cheese, nosferatu, 
 Stages to ban: BF, Town, Hollow
+Tome Notes:
+
+Thunder tome (Neutral Special)
+Tome charges: 20
+Thunder: costs 1
+Elthunder: costs 3
+Arcthunder: costs 5
+Thoron: costs 8
+Recharge: Takes approximately 12 seconds after use
+
+Arcfire tome (Side Special)
+Tome charges: 12
+Arcfire: costs 3
+Jab 3: costs 1
+Recharge: Takes approximately 12 seconds after use. 
+
+Wind tome (Up Special - Elwind)
+Tome charges: 10
+Elwind: costs 2 for full, 1 for half
+Rapid Jab: costs 2 minimum
+Recharge: Takes approximately 6 seconds, but can't be used effectively for recovery if the tome is depleted. 
+
+Dark tome (Down Special - Nosferatu) 
+Tome charges: 3
+Nosferatu: costs 1
+Recharge: Takes a significant amount of time, around 30 seconds, to fully replenish
+
 - Fruit Recycling is your best friend
 - Get off the ledge
 - Now that you know the oos punishes, really make Robin pay for losing levin sword

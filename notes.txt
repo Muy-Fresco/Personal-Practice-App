@@ -568,9 +568,6 @@ Stages to ban:
 
         - Note: Up Smash is very unreliable. It only works up close and you can’t be behind Inkling. If possible, throw a bell out of shield, before linking smash attack.
 
-
-
-
 Isabelle
 Things to watch out for: Ledge Fiend Fishing Rod, grab throws, slingshot, up smash
 Stages to ban: BF, SV, Kalos
@@ -656,7 +653,8 @@ Kazuya
 Things to watch out for: Kazuya Mishima, ewgf, up b oos, rage drive
 Stages to ban: BF, SV, Town
 - Out of all the FGCs these ones are the most cancerous
-- Similarly to Luigi, make sure to alert and setup before engaging. This could prevent early stocks if they’re rushing you down 
+- Similarly to Luigi, make sure to be alert and setup before engaging. This could prevent early stocks if they’re rushing you down
+- This mfer can literally land ewgfs off of aerials so don't think you're  safe just cuz he's not spamming it 
 - Kazuya’s moves hit hydrant away faster than normal
 - Most Kazuya players will use laser when they’re off stage. Edge guard/ledge trap accordingly
 - Kazuya can dash attack through hydrant
@@ -1369,21 +1367,39 @@ Things to watch out for: Ledge Fiend, any levin aerial, any smash attack, up b s
 Stages to ban: BF, Town, Hollow
 - Fruit Recycling is your best friend
 - Get off the ledge
+- Now thay uo
 - Pellet shield arcthunder
+- If they're rushing on you through the air, he's prolly gonna levin aerial
 - Unstale arcfire one shots the hydrant
-- Robin can be helly bouncy at times
+- Robin can be hella bouncy at times
 - Force a high recovery could be a nice fsmash
 - Really only charge fruit on the ground so you don’t get scuffed out by levin sword
 - Don’t give him enough space to go for weird b thunder moves in burst range
 
 🛡️ Out of Shield Punishes vs Robin
-    - Nair: FF, Falling Aerials, Aerial Delay 19
+    - Levin Nair: FF, Falling Aerials, Aerial Delay 19
         - OoS: Up B, Zdrop, Nair
         - Parry OoS: Up B. Zdrop, Nair, Dair, Fruit Throw, Up smash, Jabs, Ftilt, Dtilt
 
-    - Fair: FF, Falling Aerials, Aerial Delay 10
+    - Bronze Nair:
+        - OoS: Up B, Zdrop, Nair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Fire Hydrant, Jabs, Ftilt, Dtilt
+
+    - Levin Fair: FF, Falling Aerials, Aerial Delay 10
         - OoS: Up B, Zdrop, Nair, 
         - Parry OoS: Up B, Zdrop, Nair, Dair, 
+
+    - Bronze Fair
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Dtilt
+
+    - Levin Bair: FF, Falling Aerials, Aerial Delay 15, Full Hop
+        - OoS: Up B, Zdrop
+        - Parry OoS: Up B, Zdrop, Nair, Fair (Perfect spacing only), Fruit Throw (Up Close only), Jabs, Ftilt, Dtilt
+
+    - Bronze Bair:
+        - OoS: Up B, Zdrop, Nair
+        - Parry OoS: Up B, Zdrop, Nair, Fair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt   
 
 Rosalina & Luma
 Things to watch out for: 

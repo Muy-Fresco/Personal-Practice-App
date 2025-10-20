@@ -142,6 +142,76 @@ function setCharacter() {
   }
 }
 
+function filterCharacters() {
+  const input = document.getElementById("character-input").value.toLowerCase();
+  const dropdown = document.getElementById("dropdown");
+  dropdown.innerHTML = "";
+  if (!input) {
+    dropdown.style.display = "none";
+    return;
+  }
+
+  const matches = player.characters.filter(char =>
+    char.toLowerCase().includes(input)
+  );
+
+  if (matches.length === 0) {
+    dropdown.style.display = "none";
+    return;
+  }
+
+  matches.forEach(match => {
+    const item = document.createElement("div");
+    item.className = "dropdown-item";
+
+    // Find image file (fallback to generic if missing)
+    const imageFile = findCharacterImage(match);
+    const img = document.createElement("img");
+    img.src = `images/${imageFile}`;
+    img.alt = match;
+
+    const span = document.createElement("span");
+    span.textContent = match;
+
+    item.appendChild(img);
+    item.appendChild(span);
+    item.onclick = () => selectCharacterFromDropdown(match);
+
+    dropdown.appendChild(item);
+  });
+
+  dropdown.style.display = "block";
+}
+
+function findCharacterImage(character) {
+  // Convert name to lowercase and handle nicknames
+  const lower = character.toLowerCase();
+  // Example conversion for known short names
+  const map = {
+    "meta knight": "chara_2_mk_00.png",
+    "isabelle": "chara_2_isabelle_00.png",
+    "pac-man": "chara_2_pacman_00.png",
+    "bowser jr.": "chara_2_koopajr_00.png"
+  };
+
+  if (map[lower]) return map[lower];
+
+  if (lower.includes("dr")) return "chara_2_drmario_00.png";
+  if (lower.includes("game")) return "chara_2_gamewatch_00.png";
+  if (lower.includes("rosalina") || lower.includes("luma")) return "chara_2_rosalina_00.png";
+  if (lower.includes("k. rool") || lower.includes("krool")) return "chara_2_krool_00.png";
+  if (lower.includes("banjo") || lower.includes("kazooie")) return "chara_2_banjo_00.png";
+  if (lower.includes("r.")) return "chara_2_robot_00.png"
+  // Default naming pattern if not in map
+  return `chara_2_${lower.replace(/[^a-z0-9]/g, "_")}_00.png`;
+}
+
+function selectCharacterFromDropdown(character) {
+  document.getElementById("character-input").value = character;
+  document.getElementById("dropdown").style.display = "none";
+  setCharacter(); // Automatically set it
+}
+
 function addChar() {
   if (!selectedCharacter) return output("No character selected.");
   output(player.addPractice(selectedCharacter));

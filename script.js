@@ -98,37 +98,22 @@ class Player {
   getNotes(name) {
     const resolved = this.resolveNickname(name);
     if (!resolved) return "Character not found.";
-  
     const lines = this.notes.split("\n");
     const results = [];
     let capturing = false;
-  
     for (const line of lines) {
-      const trimmed = line.trim();
-  
-      // Start capturing when we reach the character’s name
-      if (trimmed === resolved) {
+      if (line.trim() === resolved) {
         capturing = true;
         continue;
       }
-  
-      // Stop if we hit a new character name (next section)
-      if (this.characters.includes(trimmed) && trimmed !== resolved && capturing) {
-        break;
-      }
-  
-      // ❗ Stop early if we hit Out of Shield Punishes
-      if (trimmed.startsWith("🛡️ Out of Shield Punishes vs") && capturing) {
-        break;
-      }
-  
-      // Keep collecting
+      
+      if (this.characters.includes(line.trim()) && line.trim() !== resolved && capturing) break;
+      
       if (capturing) results.push(line);
     }
-  
     return results.length ? results.join("\n") : "No notes found.";
   }
-  
+}
 
 const player = new Player("Fresh", "Pac-Man");
 let selectedCharacter = null;

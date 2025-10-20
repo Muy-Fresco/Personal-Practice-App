@@ -10,13 +10,22 @@
   <h1>Smash Practice App</h1>
   <p class="subtitle">Player: Fresh | Main: Pac-Man</p>
 
-  <div class="container">
-    <div class="group">
-      <h3>Character Input</h3>
-      <input type="text" id="character-input" placeholder="Enter character name" autocomplete="off" />
-      <button onclick="setCharacter()">Set Character</button>
-      <p id="current-char" style="margin-top:10px; color:#aaa;">No character selected</p>
+  <div class="group">
+    <h3>Character Input</h3>
+    <div class="character-input-container">
+      <input
+        type="text"
+        id="character-input"
+        placeholder="Type to search characters..."
+        autocomplete="off"
+        oninput="filterCharacters()"
+      />
+      <div id="dropdown" class="dropdown"></div>
     </div>
+    <button onclick="setCharacter()">Set Character</button>
+    <p id="current-char" style="margin-top:10px; color:#aaa;">No character selected</p>
+  </div>
+  
 
     <div class="group">
       <h3>Add/Remove Practice Character</h3>

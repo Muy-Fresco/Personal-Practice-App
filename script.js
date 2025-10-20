@@ -164,7 +164,16 @@ function showApple() {
 
 function showNotes() {
   if (!selectedCharacter) return output("No character selected.");
-  output(player.getNotes(selectedCharacter));
+  
+  let notes = player.getNotes(selectedCharacter);
+
+  // 🧹 Remove OOS Punishes section if it appears
+  const oosIndex = notes.indexOf("🛡️ Out of Shield Punishes vs");
+  if (oosIndex !== -1) {
+    notes = notes.substring(0, oosIndex).trim();
+  }
+
+  output(notes || "No notes found.");
 }
 
 function extractOOSSection(notesText, selectedCharacter) {

@@ -107,3 +107,58 @@ button:active {
   max-height: 300px;
   user-select: text;
 }
+
+.character-input-container {
+  position: relative;
+  width: 100%;
+}
+
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #1e1e1e;
+  border: 1px solid #ffcc0040;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(255, 204, 0, 0.2);
+  max-height: 220px;
+  overflow-y: auto;
+  z-index: 100;
+  display: none;
+}
+
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background: #ffcc0015;
+}
+
+/* 🔥 Responsive image sizing */
+.dropdown-item img {
+  width: clamp(28px, 6vw, 40px);  /* scales between 28–40px depending on screen size */
+  height: auto;
+  border-radius: 8px;
+}
+
+
+#dropdown {
+  max-height: 50vh;
+  overflow-y: auto;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+/* Keeps text readable and properly aligned */
+.dropdown-item span {
+  font-size: clamp(14px, 3vw, 18px);
+  white-space: nowrap;
+}
+

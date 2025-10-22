@@ -191,7 +191,7 @@ Stages to ban:
 
 Cloud
 Things to watch out for: Ledge Fiend, Up Smash, bair, dair, ftilt, dash attack
-Stages to ban: BF, SBF, PS2, 
+Stages to ban: SBF, PS2, SV
 - Be wary of bair pressure especially in the corner
 - Respect Cloud when it’s his turn to disrespect you
 - Burst range is cherry range for cloud. Stay out of that range

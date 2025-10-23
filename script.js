@@ -65,6 +65,12 @@ class Player {
     return Array.from(this.practiceList).sort();
   }
 
+  clearPracticeList() {
+    this.practiceList.clear();
+    this.savePracticeList();
+    output("Cleared.")
+  }
+
   getRoster() {
     return this.characters.sort();
   }

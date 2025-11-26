@@ -140,7 +140,7 @@ Stages to ban: BF
         - OoS: None
         - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
 
-    - Nair (2nd Hit): FF, Falling Aerials, Aerial Delay 4, Full Hop
+     Nair (2nd Hit): FF, Falling Aerials, Aerial Delay 4, Full Hop
         - OoS: Up B, Zdrop (Situational)
         - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
 
@@ -653,8 +653,9 @@ Kazuya
 Things to watch out for: Kazuya Mishima, ewgf, up b oos, rage drive
 Stages to ban: BF, SV, Town
 - Out of all the FGCs these ones are the most cancerous
+- Try not to touch the ground as much as possible. Mixup the ground game to make them second guess themselves
 - Similarly to Luigi, make sure to be alert and setup before engaging. This could prevent early stocks if they’re rushing you down
-- This mfer can literally land ewgfs off of aerials so don't think you're  safe just cuz he's not spamming it 
+- This mfer can literally land ewgfs off of aerials so don't think you're safe just cuz he's not spamming it 
 - Kazuya’s moves hit hydrant away faster than normal
 - Most Kazuya players will use laser when they’re off stage. Edge guard/ledge trap accordingly
 - Kazuya can dash attack through hydrant
@@ -1039,6 +1040,7 @@ Stages to ban: SV, Town, Hollow
 - Play around her burst range. ALL OF IT
 - Ram ram and dragon laser go through laser
 - Don’t let her stop you from setting up at the beginning of the match. Set up the precautions before she gets close.
+- Be sure to approach from a 45 degree angle too. She has a blind spot there
 - Place hydrant in front of min min to close the distance
 - Min Min players will edge guard tf outta you cuz they can
 - Camp her for as long as you can, but make sure to take full advantage of when you can box her
@@ -1385,7 +1387,8 @@ Wind tome (Up Special - Elwind)
 Tome charges: 10
 Elwind: costs 2 for full, 1 for half
 Rapid Jab: costs 2 minimum
-Recharge: Takes approximately 6 seconds, but can't be used effectively for recovery if the tome is depleted. 
+Recharge: Takes approximately 6 seconds, but can't be used effectively for recovery if the tome is depleted.
+^^Robin is NOT in free fall with no wind
 
 Dark tome (Down Special - Nosferatu) 
 Tome charges: 3
@@ -1444,7 +1447,8 @@ Things to watch out for: Jair, Literally any aerials, side b strings,
 Stages to ban: SBF, Town, Hollow
 - Stick to the gameplan
 - Slow him down, and never chase
-- Despite roy having a sword, he still needs to get up close and personal 
+- Despite roy having a sword, he still needs to get up close and personal
+- Don't let Roys do that Goblin stand still bs on you. If they not approaching neither are you.
 - Dair Roy’s recovery
 - Chuck fruits at him off stage
 
@@ -1496,19 +1500,20 @@ Stages to ban: SBF, SV, Hollow
 
 Samus
 Things to watch out for: Ledge Fiend, Ledge Traps, Up Throw, Literally any aerial,
-Stages to ban:  
+Stages to ban: BF, Kalos, Town 
 - Burst Range = Cherry Range+
 - Samus players go for grabs a lot so be sure to react to them. Don’t roll to try to avoid it tho. Spotdodge only
 - Try and get behind Samus
+- Stay grounded. They can anti-air with fair, uair, or up b.
 - Unsure? Reset neutral
+- If Samus used her charge shot, she can't kill from a distance. She has to come to you
 - Don’t hit their shield so much. Up b oos will humble you
 - SDI Up Samus uair strings 
 - Pellet shield the missles and keep it lingering so it can cover large charge shots
 - They often use uptilt on the hydrant
 - Apply the pressure nonstop. Don’t mash, just continue to make your presence known
 - Combo samus based on her floatiness 
-- Grounded trampoline can shield you 
-from charge shot in useful scenarios
+- Grounded trampoline can shield you from charge shot in useful scenarios
 - Don’t be be scared of charge shot so much. It can’t threaten as much if it’s barely charged
 - When Samus threatens with charge shot at high percents, chances are they’re gonna grab instead, so be ready to react to it
 
@@ -1895,6 +1900,18 @@ Stages to ban: BF, SV, Hollow
     - Nair: FF, Falling Aerials, Aerial Delay 11
         - OoS: None
         - Parry OoS: Up B, Zdrop
+
+    - Fair (First Hit): FF, FF, Delay 4 Falling Aerials, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
+
+    - Fair (Second Hit): FF, FF, Delay 21 Falling Aerials, Full Hop
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Jabs Ftilt 
+
+    - Bair (First & Second Hit)
+        - OoS: None
+        - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
 
 Zelda
 Things to watch out for: Ledge Fiend, Ledge Expert (Teleport)

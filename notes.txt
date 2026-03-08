@@ -1398,7 +1398,7 @@ Recharge: Takes a significant amount of time, around 30 seconds, to fully replen
 Levin Sword has 8 charges, 
 Recharge: Approximately 10 seconds
 
-- Fruit Recycling is your best friend
+- Fruit Recycling is your best friend, but only from a safe distance. You only wanna be in cherry range when galaga's in hand.
 - Get off the ledge
 - Now that you know the oos punishes, really make Robin pay for losing levin sword
 - Every bronze aerial is punishable with nair oos
@@ -1438,9 +1438,9 @@ Recharge: Approximately 10 seconds
 Rosalina & Luma
 Things to watch out for: 
 Stages to ban: SV
+- Murder Luma. That's the No. 1 priority
 - Use hydrant as a bait
 - Keep key charged up 
-- Murder Luma
 
 Roy
 Things to watch out for: Jair, Literally any aerials, side b strings, 
@@ -1504,6 +1504,7 @@ Stages to ban: BF, Kalos, Town
 - Burst Range = Cherry Range+
 - Samus players go for grabs a lot so be sure to react to them. Don’t roll to try to avoid it tho. Spotdodge only
 - Try and get behind Samus
+- Don't Samus get any freebie charge shots. That's exactly what the shade setup is for, so you don't gotta overcommmit with the side b
 - Stay grounded. They can anti-air with fair, uair, or up b.
 - Unsure? Reset neutral
 - If Samus used her charge shot, she can't kill from a distance. She has to come to you

@@ -1379,7 +1379,7 @@ Recharge: Takes approximately 12 seconds after use
 
 Arcfire tome (Side Special)
 Tome charges: 12
-Arcfire: costs 3
+Arcfire: costs 2
 Jab 3: costs 1
 Recharge: Takes approximately 12 seconds after use. 
 

@@ -1366,7 +1366,7 @@ Stages to ban: BF, SV, Hollow
 
 Robin
 Things to watch out for: Ledge Fiend, any levin aerial, any smash attack, up b spike cheese, nosferatu, 
-Stages to ban: BF, Town, Hollow
+Stages to ban: SV, Town, Kalos
 Tome Notes:
 
 Thunder tome (Neutral Special)

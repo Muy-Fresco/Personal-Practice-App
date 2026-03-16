@@ -1,3 +1,13 @@
+let oosData = {};
+
+fetch("oosdata.json")
+  .then(res => res.json())
+  .then(data => {
+    oosData = data;
+    console.log("OOS data loaded.");
+  })
+  .catch(err => console.error("Failed to load OOS data:", err));
+
 class Player {
   constructor(name, main) {
     this.name = name;
@@ -292,6 +302,47 @@ function showOOS() {
 
   if (oosSection) output(oosSection);
   else output(`No Out of Shield data found for ${selectedCharacter}.`);
+}
+
+function showOOSStats() {
+  if (!selectedCharacter) {
+    return output("No character selected.");
+  }
+
+  const resolved = player.resolveNickname(selectedCharacter);
+
+  // Find matching key regardless of case / punctuation
+  const key = Object.keys(oosData).find(
+    k => k.toLowerCase().replace(/[^a-z0-9]/g, "") ===
+         resolved.toLowerCase().replace(/[^a-z0-9]/g, "")
+  );
+
+  if (!key) {
+    return output(`No OOS stats found for ${resolved}.`);
+  }
+
+  const data = oosData[key];
+
+  const text = `
+🛡️ Out of Shield Data vs ${key}
+
+Fastest: ${data.fastest.moves} (Frame ${data.fastest.frame})
+
+2nd Fastest: ${data.second.moves} (Frame ${data.second.frame})
+
+3rd Fastest: ${data.third.moves} (Frame ${data.third.frame})
+
+Grab: Frame ${data.grab}
+Grab (Post Shieldstun): ${data.grab_post_shieldstun}
+
+Item Throw (Forward): ${data.item_throw_forward}
+Item Throw (Back): ${data.item_throw_back}
+
+Jump + Z-Drop (Front): ${data.jump_zdrop_front}
+Jump + Z-Drop (Back): ${data.jump_zdrop_back}
+`;
+
+  output(text);
 }
 
 

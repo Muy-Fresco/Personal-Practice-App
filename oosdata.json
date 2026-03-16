@@ -1,0 +1,1802 @@
+{
+  "Banjo & Kazooie": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Bair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "10",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Bayonetta": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Fair, SideB (Air)"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Nair, Uair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "10",
+    "item_throw_back": "10",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Bowser": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "SideB (Air)"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Nair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "10",
+    "item_throw_back": "13",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Bowser Jr.": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Nair"
+    },
+    "grab": "11",
+    "grab_post_shieldstun": "15",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Byleth": {
+    "fastest": {
+      "frame": "9",
+      "moves": "NAir"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Up B"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "UAir, USmash"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Captain Falcon": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Nair, Uair"
+    },
+    "second": {
+      "frame": "13",
+      "moves": "Bair"
+    },
+    "third": {
+      "frame": "14",
+      "moves": "UpB, Jab"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Chrom": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "UpB"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Cloud": {
+    "fastest": {
+      "frame": "7",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Uair"
+    },
+    "grab": "9",
+    "grab_post_shieldstun": "13",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Corrin": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Fair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "7",
+    "item_throw_back": "10",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Daisy": {
+    "fastest": {
+      "frame": "7",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Bair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Dark Pit": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Dair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Dark Samus": {
+    "fastest": {
+      "frame": "4",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Nair, Zair, Usmash"
+    },
+    "grab": "15",
+    "grab_post_shieldstun": "19",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Diddy Kong": {
+    "fastest": {
+      "frame": "5",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Bair, UpB"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Fair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "7",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Donkey Kong": {
+    "fastest": {
+      "frame": "7",
+      "moves": "UpB (Air)"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Bair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Dr. Mario": {
+    "fastest": {
+      "frame": "3",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "7",
+      "moves": "Uair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Duck Hunt": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Nair, Uair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Fair, Bair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Usmash"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "6",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Falco": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Usmash"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Fair, Uair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "9",
+    "item_throw_back": "12",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Fox": {
+    "fastest": {
+      "frame": "6",
+      "moves": "DownB (Air)"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "8",
+      "moves": "Dair, Usmash"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Ganondorf": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Bair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "9",
+    "item_throw_back": "8",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Greninja": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Bair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Usmash"
+    },
+    "grab": "10",
+    "grab_post_shieldstun": "14",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Hero": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Up B"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Nair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "7",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Ice Climbers": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Bair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "8",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Ike": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Bair"
+    },
+    "second": {
+      "frame": "13",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "14",
+      "moves": "Fair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "11",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Incineroar": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Nair, NeutralB (Air)"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Bair, Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "UpB"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Inkling": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Nair, Usmash"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Bair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "UpB"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Isabelle": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Uair or Usmash"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Fair"
+    },
+    "grab": "14",
+    "grab_post_shieldstun": "18",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Jigglypuff": {
+    "fastest": {
+      "frame": "5",
+      "moves": "DownB (Air)"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Dair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "12",
+    "item_throw_back": "12",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Joker": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Fair, Bair, Usmash"
+    },
+    "third": {
+      "frame": "15",
+      "moves": "Nair, NeutralB (Air), Jab"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Kazuya": {
+    "fastest": {
+      "frame": "11",
+      "moves": "Uair"
+    },
+    "second": {
+      "frame": "12",
+      "moves": "Usmash, Up B"
+    },
+    "third": {
+      "frame": "15",
+      "moves": "Nair, Fair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "7",
+    "jump_zdrop_back": "8"
+  },
+  "Ken": {
+    "fastest": {
+      "frame": "5 (flame), 6 (normal)",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Nair, Usmash"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "King Dedede": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "13",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "16",
+      "moves": "Fair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "King K. Rool": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Nair, Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "UpB"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "10",
+    "item_throw_back": "13",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Kirby": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Bair"
+    },
+    "second": {
+      "frame": "12",
+      "moves": "Usmash"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Nair, Fair, Uair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Link": {
+    "fastest": {
+      "frame": "7",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Bair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Nair, Usmash"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "7",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Little Mac": {
+    "fastest": {
+      "frame": "3",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "5",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "grab": "9",
+    "grab_post_shieldstun": "13",
+    "item_throw_forward": "10",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Lucario": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Dair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Fair"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Nair, Uair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Lucas": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Nair, Uair"
+    },
+    "second": {
+      "frame": "12",
+      "moves": "Fair, Zair"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Dair, Jab"
+    },
+    "grab": "12",
+    "grab_post_shieldstun": "16",
+    "item_throw_forward": "7",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Lucina": {
+    "fastest": {
+      "frame": "5",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Nair, Fair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Luigi": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair, UpB"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Bair, Usmash"
+    },
+    "grab": "14",
+    "grab_post_shieldstun": "18",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mario": {
+    "fastest": {
+      "frame": "3",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "7",
+      "moves": "Uair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Marth": {
+    "fastest": {
+      "frame": "5",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Nair, Fair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mega Man": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Bair"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Usmash"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Nair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "11",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Meta Knight": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Dair"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Usmash, UpB"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Nair, Uair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mewtwo": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Nair, Fair"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Uair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "9",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mii Brawler": {
+    "fastest": {
+      "frame": "3",
+      "moves": "UpB(3)"
+    },
+    "second": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "8",
+      "moves": "Usmash, UpB(2)"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mii Gunner": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB(2) or Echo Reflector (air)"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Nair, Usmash"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Bair, UpB(1)"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mii Swordfighter": {
+    "fastest": {
+      "frame": "8",
+      "moves": "UpB(3)"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Usmash"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "UpB(1)"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Min Min": {
+    "fastest": {
+      "frame": "8",
+      "moves": "USmash"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "UAir"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "NAir (Chakram)"
+    },
+    "grab": "18",
+    "grab_post_shieldstun": "22",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mr. Game & Watch": {
+    "fastest": {
+      "frame": "3",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "5",
+      "moves": "DownB (Air)"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Nair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "11",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Mythra": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "UpB"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Nair or Fair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Ness": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Usmash, DownB (Air)"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Fair or Uair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "7",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Olimar": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Nair, Fair"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Dair, Usmash"
+    },
+    "grab": "12",
+    "grab_post_shieldstun": "16",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "P.T. [Squirtle]": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Fair, Bair, Uair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "UpB, Dair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "P.T. [Ivysaur]": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Nair, Bair, NeutralB (Air)"
+    },
+    "second": {
+      "frame": "14",
+      "moves": "Dair"
+    },
+    "third": {
+      "frame": "15",
+      "moves": "Uair, UpB, Dtilt"
+    },
+    "grab": "13",
+    "grab_post_shieldstun": "17",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "P.T. [Charizard]": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "UpB"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Nair, Fair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "PAC-MAN": {
+    "fastest": {
+      "frame": "4",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "8",
+      "moves": "Fair"
+    },
+    "grab": "12",
+    "grab_post_shieldstun": "16",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Palutena": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Bair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Fair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "7",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Peach": {
+    "fastest": {
+      "frame": "7",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Bair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Pichu": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "8",
+      "moves": "Bair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "13",
+    "item_throw_back": "10",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Pikachu": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Bair, Uair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Usmash"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "12",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Piranha Plant": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Uair or Fair"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Dair, Usmash, NeutralB (Air)"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Pit": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Dair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Pyra": {
+    "fastest": {
+      "frame": "13",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "14",
+      "moves": "Nair, Fair, Shield Drop Jab"
+    },
+    "third": {
+      "frame": "15",
+      "moves": "Usmash"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "R.O.B.": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Fair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Uair, Usmash"
+    },
+    "third": {
+      "frame": "14",
+      "moves": "Jab, Dtilt"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "7",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Richter": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "16",
+      "moves": "Jab"
+    },
+    "grab": "10",
+    "grab_post_shieldstun": "14",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Ridley": {
+    "fastest": {
+      "frame": "11",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "12",
+      "moves": "Usmash"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "Fair, Bair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Robin": {
+    "fastest": {
+      "frame": "8",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Back Air or Usmash"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Rosalina & Luma": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Nair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Rosa (no Luma)": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Usmash"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Bair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Roy": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Nair, UpB"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Usmash"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Ryu": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Uair, Usmash"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Samus": {
+    "fastest": {
+      "frame": "4",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Nair, Zair, Usmash"
+    },
+    "grab": "15",
+    "grab_post_shieldstun": "19",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Sephiroth": {
+    "fastest": {
+      "frame": "12",
+      "moves": "NAir"
+    },
+    "second": {
+      "frame": "16",
+      "moves": "FAir"
+    },
+    "third": {
+      "frame": "16",
+      "moves": "Shield Drop > Jab"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Sheik": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Bair, Uair"
+    },
+    "third": {
+      "frame": "8",
+      "moves": "Fair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Shulk": {
+    "fastest": {
+      "frame": "10",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "16",
+      "moves": "Nair, Jab"
+    },
+    "third": {
+      "frame": "17",
+      "moves": "Fair, Uair, Dair"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "10",
+    "item_throw_back": "13",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Simon": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "16",
+      "moves": "Jab"
+    },
+    "grab": "10",
+    "grab_post_shieldstun": "14",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Snake": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Dair"
+    },
+    "second": {
+      "frame": "10",
+      "moves": "Bair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Usmash"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Sonic": {
+    "fastest": {
+      "frame": "8",
+      "moves": "Fair, Uair"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "14",
+      "moves": "Jab"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Sora": {
+    "fastest": {
+      "frame": "9",
+      "moves": "Up B"
+    },
+    "second": {
+      "frame": "11",
+      "moves": "NAir"
+    },
+    "third": {
+      "frame": "13",
+      "moves": "FAir"
+    },
+    "grab": "7",
+    "grab_post_shieldstun": "11",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Steve": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Nair, SH Fair, SH Bair, Uair"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "USmash"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Fair"
+    },
+    "grab": "13",
+    "grab_post_shieldstun": "17",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Terry": {
+    "fastest": {
+      "frame": "7",
+      "moves": "NAir"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Power Dunk (Air)"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "UpB, Usmash, FAir, UAir"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Toon Link": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Nair, Bair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "USmash"
+    },
+    "grab": "12",
+    "grab_post_shieldstun": "16",
+    "item_throw_forward": "7",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Villager": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "12",
+      "moves": "Usmash"
+    },
+    "grab": "14",
+    "grab_post_shieldstun": "18",
+    "item_throw_forward": "11",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Wario": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "7",
+      "moves": "Nair"
+    },
+    "third": {
+      "frame": "8",
+      "moves": "Fair"
+    },
+    "grab": "8",
+    "grab_post_shieldstun": "12",
+    "item_throw_forward": "10",
+    "item_throw_back": "14",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Wii Fit Trainer": {
+    "fastest": {
+      "frame": "5",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Bair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "Uair"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "10",
+    "item_throw_back": "10",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Wolf": {
+    "fastest": {
+      "frame": "10",
+      "moves": "Nair, Fair, Uair, DownB (Air)"
+    },
+    "second": {
+      "frame": "13",
+      "moves": "Usmash"
+    },
+    "third": {
+      "frame": "15",
+      "moves": "Jab"
+    },
+    "grab": "6",
+    "grab_post_shieldstun": "10",
+    "item_throw_forward": "8",
+    "item_throw_back": "11",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Yoshi": {
+    "fastest": {
+      "frame": "6",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "11",
+      "moves": "Usmash"
+    },
+    "grab": "14",
+    "grab_post_shieldstun": "18",
+    "item_throw_forward": "8",
+    "item_throw_back": "7",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Young Link": {
+    "fastest": {
+      "frame": "7",
+      "moves": "Nair"
+    },
+    "second": {
+      "frame": "8",
+      "moves": "Uair"
+    },
+    "third": {
+      "frame": "9",
+      "moves": "UpB"
+    },
+    "grab": "12",
+    "grab_post_shieldstun": "16",
+    "item_throw_forward": "8",
+    "item_throw_back": "10",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Zelda": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Nair, Fair, Bair, Usmash"
+    },
+    "third": {
+      "frame": "14",
+      "moves": "NeutralB (Air)"
+    },
+    "grab": "10",
+    "grab_post_shieldstun": "14",
+    "item_throw_forward": "10",
+    "item_throw_back": "10",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  },
+  "Zero Suit Samus": {
+    "fastest": {
+      "frame": "6",
+      "moves": "UpB"
+    },
+    "second": {
+      "frame": "9",
+      "moves": "Fair, Uair"
+    },
+    "third": {
+      "frame": "10",
+      "moves": "Usmash"
+    },
+    "grab": "15",
+    "grab_post_shieldstun": "19",
+    "item_throw_forward": "7",
+    "item_throw_back": "9",
+    "jump_zdrop_front": "4",
+    "jump_zdrop_back": "5"
+  }
+}

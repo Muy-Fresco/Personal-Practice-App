@@ -1063,7 +1063,7 @@ Stages to ban: BF, SV, Hollow
 - Some GnW players (Maister) may like to go for dair on hydrant
 - Be careful how you land with hydrant. Depending on the angle, it could be enough for gnw to go for an up b or an aerial
 
-🛡️ Out of Shield Punishes vs GnW
+🛡️ Out of Shield Punishes vs Mr. Game & Watch
     - Nair: FF, Aerial Delay 2
         - OoS: Up B, Zdrop, Nair, 
         - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt

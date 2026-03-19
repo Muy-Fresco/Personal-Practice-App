@@ -1,13 +1,3 @@
-let oosData = {};
-
-fetch("oosdata.json")
-  .then(res => res.json())
-  .then(data => {
-    oosData = data;
-    console.log("OOS data loaded.");
-  })
-  .catch(err => console.error("Failed to load OOS data:", err));
-
 class Player {
   constructor(name, main) {
     this.name = name;
@@ -37,10 +27,12 @@ class Player {
     this.practiceList = new Set(saved);
   }
 
+  // Save practice list to localStorage as JSON string
   savePracticeList() {
     localStorage.setItem("practiceList", JSON.stringify([...this.practiceList]));
   }
 
+  // Resolves nicknames and character names to the official character name
   resolveNickname(input) {
     const lower = input.toLowerCase();
     const foundChar = this.characters.find(c => c.toLowerCase() === lower);
@@ -51,6 +43,7 @@ class Player {
     return null;
   }
 
+  // Adds character to the practice list
   addPractice(name) {
     const resolved = this.resolveNickname(name);
     if (resolved) {
@@ -61,6 +54,7 @@ class Player {
     return "Character not found.";
   }
 
+  // Removes character from practice list
   removePractice(name) {
     const resolved = this.resolveNickname(name);
     if (resolved && this.practiceList.has(resolved)) {
@@ -71,10 +65,12 @@ class Player {
     return "Character not found in practice list.";
   }
 
+  // Returns sorted array of characters in practice list
   getPracticeList() {
     return Array.from(this.practiceList).sort();
   }
 
+  // Clears the practice list and saves the empty state
   clearPracticeList() {
     this.practiceList.clear();
     this.savePracticeList();
@@ -85,6 +81,7 @@ class Player {
     return this.characters.sort();
   }
 
+  // Returns formatted apple kill data for a character, handling both single and multiple subcategories
   getAppleKills(name) {
     const resolved = this.resolveNickname(name);
     const data = this.appleKills[resolved];
@@ -110,7 +107,8 @@ class Player {
     }
     return output.join("\n");
   }
-
+  
+  // Extracts notes for a character by finding the section in the notes text that starts with the character's name and ends at the next character name
   getNotes(name) {
     const resolved = this.resolveNickname(name);
     if (!resolved) return "Character not found.";
@@ -129,7 +127,7 @@ class Player {
     }
     return results.length ? results.join("\n") : "No notes found.";
   }
-}
+} // End of Player class
 
 const player = new Player("Fresh", "Pac-Man");
 let selectedCharacter = null;
@@ -158,6 +156,12 @@ function setCharacter() {
   }
 }
 
+/* 
+Filters the character list based on user input and displays 
+matching characters in a dropdown with images. 
+
+Handles clicks to select a character from the dropdown.
+*/
 function filterCharacters() {
   const input = document.getElementById("character-input").value.toLowerCase();
   const dropdown = document.getElementById("dropdown");
@@ -199,6 +203,7 @@ function filterCharacters() {
   dropdown.style.display = "block";
 }
 
+// Maps character names to their image files, handling known exceptions and a default naming pattern
 function findCharacterImage(character) {
   // Convert name to lowercase and handle nicknames
   const lower = character.toLowerCase();
@@ -222,32 +227,38 @@ function findCharacterImage(character) {
   return `chara_2_${lower.replace(/[^a-z0-9]/g, "_")}_00.png`;
 }
 
+// When a character is selected from the dropdown, set the input value, hide the dropdown, and automatically set the character
 function selectCharacterFromDropdown(character) {
   document.getElementById("character-input").value = character;
   document.getElementById("dropdown").style.display = "none";
   setCharacter(); // Automatically set it
 }
 
+// Adds the selected character to the practice list, ensuring a character is selected first
 function addChar() {
   if (!selectedCharacter) return output("No character selected.");
   output(player.addPractice(selectedCharacter));
 }
 
+// Removes the selected character from the practice list, ensuring a character is selected first
 function removeChar() {
   if (!selectedCharacter) return output("No character selected.");
   output(player.removePractice(selectedCharacter));
 }
 
+// Displays the current practice list or a message if it's empty
 function viewPractice() {
   const list = player.getPracticeList();
   output(list.length ? "Practice List:\n" + list.join(", ") : "Practice list is empty.");
 }
 
+// Displays the apple kill percentage for selectec character or a message if it's empty
 function showApple() {
   if (!selectedCharacter) return output("No character selected.");
   output(player.getAppleKills(selectedCharacter));
 }
 
+// Displays the notes for the selected character, removing the OOS Punishes section if it appears, or a message if no character is selected or no notes are found
 function showNotes() {
   if (!selectedCharacter) return output("No character selected.");
   
@@ -262,6 +273,7 @@ function showNotes() {
   output(notes || "No notes found.");
 }
 
+// Extracts the Out of Shield Punishes section for the selected character from the notes text, starting from the header and ending at the next character name
 function extractOOSSection(notesText, selectedCharacter) {
   const lines = notesText.split("\n");
   const result = [];
@@ -295,6 +307,7 @@ function extractOOSSection(notesText, selectedCharacter) {
   return result.length ? result.join("\n") : null;
 }
 
+// Displays the Out of Shield Punishes section for the selected character or a message if no character is selected or no OOS data is found
 function showOOS() {
   if (!selectedCharacter) return output("No character selected.");
   const notes = player.getNotes(selectedCharacter);
@@ -304,6 +317,22 @@ function showOOS() {
   else output(`No Out of Shield data found for ${selectedCharacter}.`);
 }
 
+// Loads the OOS data from the JSON file and stores it in a variable for later use, logging success or failure to the console
+let oosData = {};
+
+fetch("oosdata.json")
+  .then(res => res.json())
+  .then(data => {
+    oosData = data;
+    console.log("OOS data loaded.");
+  })
+  .catch(err => console.error("Failed to load OOS data:", err));
+
+/* Displays the OOS stats for the selected character by:
+  - looking up the character in the loaded OOS data
+  - handling case and punctuation differences in character names
+  - and formatting the output/or showing a message if no character is selected or no OOS stats are found
+*/
 function showOOSStats() {
   if (!selectedCharacter) {
     return output("No character selected.");
@@ -375,6 +404,7 @@ function getDAL() {
 
   output(message);
 }
+
 
 function viewRoster() {
   const list = player.getRoster();

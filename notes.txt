@@ -53,7 +53,7 @@ Stages to ban: BF, SV, Hollow
 
 Banjo & Kazooie
 Things to watch out for:
-Stages to ban: Hollow SV, Town
+Stages to ban: BF Kalos, Town
 - Approaching is deadass rarely ever safe so keep your distance
 - Transition to less projectile heavy play when they inch closer to you
 - Shield the bomb and play around eggs 
@@ -289,6 +289,7 @@ Stages to ban:
 Dr. Mario
 Things to watch out for: Up B OOS, Ledge Fiend, up b oos, all aerials, LANDING nair, Up Smash, Down b, caped projectiles
 Stages to ban: BF, SV, Town
+- TRUST NO DR. MARIO. THEY ARE ALL FIENDSSSSSS
 ​- Pills go over hydrant so prepare to shield. Don’t pellet shield them
 - Don’t let neutral move too fast against this character
 - Take every chance you have to edge guard him
@@ -683,22 +684,31 @@ Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt
 Ken
 Things to watch out for: Shoryu confirms off of strong jab, uptilt, dtilt, etc, strong kick
 Stages to ban: BF, Town
+- Protect your stocks at all times ESPECIALLY the first oneFighting Ken on even stocks is always gonna be up for grabs for him.
 - Ken moves faster than ryu
+- Ken's burst range is where he shines. You're goal is to play around it, and combo him like hell for whiffing and getting too close, OR ELSE HE WILL DO THE SAME SHIT TO YOU!
+- His burst range becomes harder to avoid when they've figured out your flow. Mixup A LOT
+- SDI as much as you can
+- Ken's may like to pursue your panic up b on a platform with an aerial (most likely dair because of its combo potential. You can punish that too)
 - Mixup hard when it comes to up b’ing outta ken combos
-- Don’t in in case they go for strong kick
+- DI in in case they go for strong kick
 
 🛡️ Out of Shield Punishes vs Ken
     - Nair: FF, Falling Aerials, Aerial Delay 13, Full Hop
         - OoS: None
         - Parry OoS: Up B
 
-    - Fair: FF, Falling Aerials, Aerial Delay 11, Full Hop 
+    - Fair: FF, Falling Aerials, Aerial Delay 13, Full Hop 
         - OoS: Up B, Zdrop, Nair
         - Parry OoS: Up B, Zdrop, Nair, Fair (Wifh Proper Spacing), Dair, Fruit Throw, Jabs, Ftilt, Dtilt
 
-    - Bair: FF, Falling Aerials, Aerial Delay 11, Full Hop 
+    - Bair: FF, Falling Aerials, Aerial Delay 13, Full Hop 
         - OoS: Up B, Zdrop (Situational)
         - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
+    
+    - Dair: FF, Falling Aerials, Aerial Delay 13, Full Hop
+        - Up B, Zdrop, Nair, Fair (From midrange only) Dair
+        - 
 
 King Dedede
 Things to watch out for: Ledge Fiend, Gordo ledge traps, aerials, gordo, Up smash, dash attack, jet hammer
@@ -878,6 +888,7 @@ Stages to ban:
 Luigi
 Things to watch out for: When Luigi uairs you on a platform, nair it, Usmash in neutral at 0 is punishable with nair, Pellet shield those fireballs past ledge, and punish the overhead one, Ledge Fiend
 Stages to ban: BF, SV, Hollow
+- TRUST NO LUIGI. THEY ARE ALL FIENDSSSSSS
 - Camp him at all times
 - Punish second aerial on shield instead of the first. Luigi’s burst range is better than yours
 - Mix up how you camp
@@ -912,6 +923,7 @@ Stages to ban: BF, SV, Hollow
 Mario
 Things to watch out for: Up Smash, Dair, Uair Strings, Back Throw, Bair
 Stages to ban: BF, SV, Town
+- TRUST NO MARIO. THEY ARE ALL FIENDSSSSSS
 - For some reason, every Mario is different
 - Whiff punish the character
 - DI In on Uairs. If you can, try to keep a trampoline under the stage and DI towards it

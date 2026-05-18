@@ -691,7 +691,7 @@ Stages to ban: BF, Town
 - SDI as much as you can
 - Ken's may like to pursue your panic up b on a platform with an aerial (most likely dair because of its combo potential. You can punish that too)
 - Mixup hard when it comes to up b’ing outta ken combos
-- DI in in case they go for strong kick
+- DI in in case they go for strong kick in the corner. You'll have more time to SDI/DI if they go for up b instead.
 
 🛡️ Out of Shield Punishes vs Ken
     - Nair: FF, Falling Aerials, Aerial Delay 13, Full Hop
@@ -707,8 +707,8 @@ Stages to ban: BF, Town
         - Parry OoS: Up B, Zdrop, Nair, Jabs, Ftilt, Dtilt
     
     - Dair: FF, Falling Aerials, Aerial Delay 13, Full Hop
-        - Up B, Zdrop, Nair, Fair (From midrange only) Dair
-        - 
+        - OoS: Up B, Zdrop, Nair, Fair (From far range only) Dair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Fair (From far range only) Dair, Fruit Throw, Up Smash, Jabs, Ftilt, Key, Fire Hydrant
 
 King Dedede
 Things to watch out for: Ledge Fiend, Gordo ledge traps, aerials, gordo, Up smash, dash attack, jet hammer

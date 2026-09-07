@@ -249,7 +249,53 @@ function removeChar() {
 // Displays the current practice list or a message if it's empty
 function viewPractice() {
   const list = player.getPracticeList();
-  output(list.length ? "Practice List:\n" + list.join(", ") : "Practice list is empty.");
+
+  if (!list.length) {
+    output("Practice list is empty.");
+    return;
+  }
+
+  const outputDiv = document.getElementById("output");
+  outputDiv.innerHTML = "";
+
+  const title = document.createElement("h3");
+  title.textContent = "Practice List";
+  outputDiv.appendChild(title);
+
+  const practiceContainer = document.createElement("div");
+  practiceContainer.className = "practice-list";
+
+  list.forEach(character => {
+    const item = document.createElement("div");
+    item.className = "practice-item";
+
+    const imageFile = findCharacterImage(character);
+
+    const img = document.createElement("img");
+    img.src = `images/${imageFile}`;
+    img.alt = character;
+
+    const name = document.createElement("span");
+    name.textContent = character;
+
+    item.appendChild(img);
+    item.appendChild(name);
+
+    // Clicking the character selects them and shows their notes
+    item.onclick = () => {
+      selectedCharacter = character;
+
+      document.getElementById("character-input").value = character;
+      document.getElementById("current-char").innerText =
+        `Selected: ${character}`;
+
+      showNotes();
+    };
+
+    practiceContainer.appendChild(item);
+  });
+
+  outputDiv.appendChild(practiceContainer);
 }
 
 // Displays the apple kill percentage for selectec character or a message if it's empty

@@ -53,7 +53,7 @@ Stages to ban: BF, SV, Hollow
 
 Banjo & Kazooie
 Things to watch out for:
-Stages to ban: BF Kalos, Town
+Stages to ban: Hollow, SV, Hollow, BF
 - Approaching is deadass rarely ever safe so keep your distance
 - Transition to less projectile heavy play when they inch closer to you
 - Shield the bomb and play around eggs 
@@ -755,7 +755,7 @@ Stages to ban:  SV, Town, Hollow
         - Parry OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, Jabs, Ftilt, Dtilt
     
     - Fair: FF, Falling Aerials, Aerial Delay 8, Full Hop
-        - OoS: Up B, Zdrop, Nair (Weak Hit only)
+        - OoS: Up B, Zdrop
         - Parry OoS: Up B, Zdrop, Nair, Fair, Fruit Throw, Jabs, Ftilt, Dtilt
     
     - Bair: FF, FF Delay 9, Falling Aerials, Full Hop
@@ -1208,6 +1208,9 @@ Stages to ban: BF, Town, Kalos
 - Float is meant to try and challenge you to buffer an aerial. Don’t fall for it
 - Play patience and find those openings
 - Shield those turnips
+- Winky face, dot eyes, and stitch are the only turnips that one shot hydrant
+- When Peach has a turnip in hand, she may have access to her aerials but she can't grab you
+- Peach is very vulnerable to shield pokes. For this reason, Peach players may tilt their shield up, which expose their feet.
 
 🛡️ Out of Shield Punishes vs Peach
     - Nair: FF, Falling Aerials, Aerial Delay 12
@@ -1217,6 +1220,10 @@ Stages to ban: BF, Town, Kalos
     - Bair: FF, Falling Aerials, Aerial Delay 10
         - OoS: Up B, Zdrop, Nair, 
         - Parry OoS: Up B, Zdrop, Nair, Dair, Fruit Throw, Jabs, Ftilt, Dtilt (With Proper Spacing)
+
+    - Fair: FF, Falling Aerials
+        - OoS: Up B, Zdrop, Nair, Fruit Throw
+        - Parry OoS: Up B, Zdrop, Nair, Fruit Throw, Up Smash (Proper Spacing Only), Ftilt (Proper Spacing Only), Dtilt (Proper Spacing Only)
 
 Pichu
 Things to watch out for:
@@ -1749,7 +1756,7 @@ Stages to ban:
         - Parry OoS: Up B, Zdrop, Jabs, Ftilt
 
 Toon Link
-Things to watch out for: BF, Kalos
+Things to watch out for: BF, Kalos, Town
 Stages to ban:
 - Lowkey cloud with more projectiles lol
 - DI Toon Link up smash the opposite direction he’s facing
